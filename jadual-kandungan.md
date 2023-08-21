@@ -1,31 +1,115 @@
 # Jadual Kandungan
 
-## Table of Contents
+## Senarai Kandungan
 
-### 1. Introduction
+### 1. Pengenalan
 
-1.1 Background and Context 1.2 Problem Statement 1.3 Objectives of the Study 1.4 Scope and Limitations
+1.1 Latar Belakang dan Konteks&#x20;
 
-### 2. Literature Review
+1.2 Kenyataan Masalah&#x20;
 
-2.1 Overview of Integrated Information Management Systems 2.2 Importance and Benefits of Integrated Systems in Educational Institutions 2.3 Case Studies of Similar Systems in Educational Settings
+1.3 Objektif Kajian&#x20;
 
-### 3. Methodology
+1.4 Skop dan Had
 
-3.1 Research Design 3.2 Data Collection Methods 3.2.1 Surveys and Questionnaires 3.2.2 Interviews with Stakeholders 3.3 Data Analysis Techniques 3.4 Ethical Considerations
+### 2. Kajian Literatur
 
-### 4. System Requirements Analysis
+2.1 Gambaran Keseluruhan Sistem Pengurusan Maklumat Bersepadu&#x20;
 
-4.1 Identification of Stakeholders 4.2 Functional Requirements 4.2.1 User Management and Authentication 4.2.2 Student Information Management 4.2.3 Academic Course Management 4.2.4 Communication Tools 4.3 Non-Functional Requirements 4.3.1 Security and Privacy 4.3.2 Performance and Scalability 4.3.3 User Interface Design
+2.2 Kepentingan dan Manfaat Sistem Bersepadu dalam Institusi Pendidikan&#x20;
 
-### 5. Feasibility Analysis
+2.3 Kajian Kes Sistem Serupa dalam Pengaturcaraan Pendidikan
 
-5.1 Technical Feasibility 5.1.1 Assessment of Existing Infrastructure 5.1.2 Compatibility with Existing Systems 5.2 Financial Feasibility 5.2.1 Cost Estimation (Development, Implementation, Maintenance) 5.2.2 Return on Investment (ROI) Analysis 5.3 Organizational Feasibility 5.3.1 Impact on Staff and Workflow 5.3.2 Change Management Strategies
+### 3. Metodologi
 
-### 6. Risk Analysis
+3.1 Reka Bentuk Kajian&#x20;
 
-6.1 Identification of Potential Risks 6.2 Assessment of Risks (Probability, Impact) 6.3 Mitigation Strategies
+3.2 Kaedah Pengumpulan Data&#x20;
 
-### 7. Implementation Plan
+3.2.1 Survei dan Soal Selidik&#x20;
 
-7.1 System Architecture and Design 7.2 Development Phases and Milestones 7.3 Testing and Quality Assurance 7.4 Deployment Strategy
+3.2.2 Temu Bual dengan Pemangku Kepentingan&#x20;
+
+3.3 Teknik Analisis Data&#x20;
+
+3.4 Pertimbangan Etika
+
+### 4. Analisis Keperluan Sistem
+
+4.1 Pengenalpastian Pemangku Kepentingan&#x20;
+
+4.2 Keperluan Fungsional&#x20;
+
+4.2.1 Pengurusan Pengguna dan Pengesahan&#x20;
+
+4.2.2 Pengurusan Maklumat Pelajar&#x20;
+
+4.2.3 Pengurusan Kursus Akademik&#x20;
+
+4.2.4 Alat Komunikasi&#x20;
+
+4.3 Keperluan Tidak Fungsional&#x20;
+
+4.3.1 Keselamatan dan Privasi&#x20;
+
+4.3.2 Prestasi dan Skalabiliti&#x20;
+
+4.3.3 Reka Bentuk Antara Muka Pengguna
+
+### 5. Analisis Kebolehlaksanaan
+
+5.1 Kebolehlaksanaan Teknikal&#x20;
+
+5.1.1 Penilaian Infrastruktur Sedia Ada&#x20;
+
+5.1.2 Keserasian dengan Sistem Sedia Ada&#x20;
+
+5.2 Kebolehlaksanaan Kewangan&#x20;
+
+5.2.1 Anggaran Kos (Pembangunan, Pelaksanaan, Penyelenggaraan)&#x20;
+
+5.2.2 Analisis Pulangan Pelaburan (ROI)&#x20;
+
+5.3 Kebolehlaksanaan Organisasi&#x20;
+
+5.3.1 Kesan Terhadap Staf dan Aliran Kerja&#x20;
+
+5.3.2 Strategi Pengurusan Perubahan
+
+### 6. Analisis Risiko
+
+6.1 Pengenalpastian Risiko Berpotensi&#x20;
+
+6.2 Penilaian Risiko (Kebarangkalian, Kesan)&#x20;
+
+6.3 Strategi Pemitigan
+
+### 7. Pelan Pelaksanaan
+
+7.1 Seni Bina dan Reka Bentuk Sistem&#x20;
+
+7.2 Fasa Pembangunan dan Tonggak-Tonggak&#x20;
+
+7.3 Ujian dan Jaminan Kualiti&#x20;
+
+7.4 Strategi Penyampaian&#x20;
+
+7.5 Latihan dan Pengenalan Pengguna
+
+### 8. Penilaian dan Pemantauan
+
+8.1 Kriteria Kejayaan&#x20;
+
+8.2 Pemantauan Prestasi Sistem Secara Berterusan&#x20;
+
+8.3 Maklum Balas Pengguna dan Peningkatan Berterusan
+
+### 9. Kesimpulan
+
+9.1 Ringkasan Penemuan&#x20;
+
+9.2 Cadangan&#x20;
+
+9.3 Impak untuk Pembangunan Masa Depan
+
+### 10. Rujukan
