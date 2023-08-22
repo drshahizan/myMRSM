@@ -2,7 +2,10 @@
 
 * [👋 Welcome to A Product](README.md)
 * [Jadual Kandungan](jadual-kandungan.md)
-* [Phases and tasks](phases-and-tasks.md)
+* [Phases and tasks](phases-and-tasks/README.md)
+  * [Phase 1: Project Initiation](phases-and-tasks/phase-1-project-initiation.md)
+  * [Phase 2: Feasibility Study](phases-and-tasks/phase-2-feasibility-study.md)
+* [Phase 3: Requirement Analysis](phase-3-requirement-analysis.md)
 
 ## Overview
 
