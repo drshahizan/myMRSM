@@ -11,7 +11,7 @@
   * [Pengumpulan data](aktiviti/pengumpulan-data/README.md)
     * [Perkara yang perlu dianalisis](aktiviti/pengumpulan-data/perkara-yang-perlu-dianalisis.md)
   * [Penyiasatan Tapak](penyiasatan-tapak.md)
-* [Ekosistem ICT](ekosistem-ict.md)
+  * [Kajian Ekosistem ICT](aktiviti/kajian-ekosistem-ict.md)
 * [Jadual Kandungan](jadual-kandungan.md)
 * [Phases and tasks](phases-and-tasks/README.md)
   * [1: Project Initiation](phases-and-tasks/1-project-initiation.md)
