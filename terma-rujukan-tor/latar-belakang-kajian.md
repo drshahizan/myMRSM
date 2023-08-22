@@ -22,3 +22,7 @@ Objektif kajian ini adalah untuk:
 ### 1.3.  Lokasi kajian
 
 Kajian akan dilaksanakan di Ibu Pejabat MARA dan MRSM terpilih.
+
+### 1.4. Tempoh pelaksanaan kajian
+
+Keseluruhan projek perlu disiapkan dalam tempoh lima (5) bulan bermula dari tempoh lantikan perunding dibuat. Perunding perlu mencadangkan jadual pelaksanaan kajian secara terperinci kepada MARA.
