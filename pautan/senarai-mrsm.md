@@ -1,7 +1,7 @@
 # Senarai MRSM
 
 | State   | Name              | Programs Offered | Year Established | Official Website                      |
-|---------|-------------------|------------------|------------------|---------------------------------------|
+|---------|-------------------|------------------|:------------------:|---------------------------------------|
 | Perlis  | Beseri            | Program Premier  | 1985             | [beseri.mrsm.edu.my](http://beseri.mrsm.edu.my) |
 |         | Arau              | Program Premier  | 2019             | [arau.mrsm.edu.my](http://arau.mrsm.edu.my)     |
 | Kedah   | PDRM Kulim        | Program Premier  | 1991             | [pdrmkulim.mrsm.edu.my](http://pdrmkulim.mrsm.edu.my) |
