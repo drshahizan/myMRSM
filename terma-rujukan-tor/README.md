@@ -1,2 +1,0 @@
-# Terma Rujukan (TOR)
-

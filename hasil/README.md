@@ -1,4 +1,4 @@
-# Hasil
+# 📖 Hasil
 
 Mencadangkan kaedah terbaik dan bersesuaian dalam melaksanakan proses analisis data dan penyediaan laporan strategik yang komprehensif secara tepat dan berkesan, sama ada melalui penambahbaikan kepada sistem sedia ada atau pembangunan sistem baharu berdasarkan perkara berikut:&#x20;
 

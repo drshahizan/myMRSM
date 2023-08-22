@@ -1,7 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
-* [💠 Terma Rujukan (TOR)](terma-rujukan-tor/README.md)
+* [💠 Terma Rujukan (TOR)](README.md)
   * [1⃣ Latar belakang kajian](terma-rujukan-tor/latar-belakang-kajian.md)
   * [2⃣ Objektif](terma-rujukan-tor/objektif.md)
   * [3⃣ Skop](terma-rujukan-tor/skop.md)
@@ -27,24 +26,3 @@
     * [5: Report Preparation](lain-lain/phases-and-tasks/5-report-preparation.md)
     * [6: Presentation and Decision Making](lain-lain/phases-and-tasks/6-presentation-and-decision-making.md)
     * [7: Conclusion and Recommendations](lain-lain/phases-and-tasks/7-conclusion-and-recommendations.md)
-
-## Overview
-
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
-
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
