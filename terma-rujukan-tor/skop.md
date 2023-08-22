@@ -19,9 +19,9 @@
 
 3.5 Mencadangkan kaedah terbaik dan bersesuaian dalam melaksanakan proses analisis data dan penyediaan laporan strategik yang komprehensif secara tepat dan berkesan, sama ada melalui penambahbaikan kepada sistem sedia ada atau pembangunan sistem baharu berdasarkan perkara berikut:
 
-* [ ] Penelitian ke atas peranan utama MARA dalam BSP MARA dan ISP MARA untuk tempoh 2019 - 2023;
-* [ ] Analisis Persekitaran Bisnes yang mengambil kira keperluan pemegang taruh;
-* [ ] Analisis jurang di antara keupayaan sistem sedia ada dan keperluan sebenar dalam menghasilkan data dan laporan yang diperlukan.&#x20;
-* [ ] Analisis jurang keperluan pemegang taruh, amalan semasa dan amalan terbaik di MRSM dengan sekolah berasrama penuh yang lain.
+* [x] Penelitian ke atas peranan utama MARA dalam BSP MARA dan ISP MARA untuk tempoh 2019 - 2023;
+* [x] Analisis Persekitaran Bisnes yang mengambil kira keperluan pemegang taruh;
+* [x] Analisis jurang di antara keupayaan sistem sedia ada dan keperluan sebenar dalam menghasilkan data dan laporan yang diperlukan.&#x20;
+* [x] Analisis jurang keperluan pemegang taruh, amalan semasa dan amalan terbaik di MRSM dengan sekolah berasrama penuh yang lain.
 
 3.6 Mencadangkan arkitektur dan pelaporan bersepadu yang bersesuaian dengan myMRSM.

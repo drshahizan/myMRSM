@@ -1,6 +1,6 @@
 # Output yang dihasilkan
 
-### 6.1 Laporan
+### 1. Laporan
 
 &#x20;Pihak perunding perlu melaporkan perkembangan dan dapatan kajian dalam tiga (3) fasa berikut:
 
@@ -20,6 +20,6 @@ Laporan kemajuan mengandungi analisis data sama ada primer atau sekunder terhada
 
 Laporan akhir beserta ringkasan eksekutif dan jurnal kajian adalah hasil kajian yang holistik, komprehensif dan menyeluruh. Laporan akhir merupakan keputusan muktamad hasil kajian setelah dipersetujui dan diterima oleh jawatankuasa terlibat. Laporan ini perlu disediakan sebanyak tiga (3) salinan merangkumi laporan berjilid, slaid pembentangan dan dokumen lain yang berkaitan. Ringkasan eksekutif perlu ditulis dalam dwi bahasa (Bahasa Melayu dan Bahasa Inggeris).
 
-### &#x20;6.2 Pembentangan
+### &#x20;2. Pembentangan
 
-Selain laporan di atas, perunding juga dikehendaki membuat pembentangan kepada pihak pengurusan tertinggi MARA berkenaan hasil kajian secara keseluruhan pada tarikh yang ditetapkan. Semua laporan perlu diserahkan kepada MARA pada tarikh yang ditetapkan dalam versi Bahasa Melayu dan Bahasa Inggeris secara _hardcopy_ dan _softcopy_.
+Perunding juga dikehendaki membuat pembentangan kepada pihak pengurusan tertinggi MARA berkenaan hasil kajian secara keseluruhan pada tarikh yang ditetapkan. Semua laporan perlu diserahkan kepada MARA pada tarikh yang ditetapkan dalam versi Bahasa Melayu dan Bahasa Inggeris secara _hardcopy_ dan _softcopy_.

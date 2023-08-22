@@ -6,11 +6,11 @@ BPM mengawal selia 55 buah MRSM di seluruh Malaysia. Sehingga Mac 2023, MRSM mem
 
 Cadangan pembangunan sistem pengurusan maklumat bersepadu MRSM adalah satu keperluan utama kepada pengurusan BPM secara amnya dan pentadbiran MRSM khususnya. Dalam usaha membangunkan sistem maklumat berpusat, sistem baharu ini iaitu sistem pengurusan maklumat bersepadu MRSM (myMRSM) akan menjadi tulang belakang kepada pengurusan MRSM.
 
-### 1.1. Nama Kajian
+### 1. Nama Kajian
 
 Kajian kebolehlaksanaan pembangunan sistem pengurusan maklumat bersepadu MRSM (myMRSM).&#x20;
 
-### 1.2.  Objektif Kajian
+### 2.  Objektif Kajian
 
 Objektif kajian ini adalah untuk:
 
@@ -19,10 +19,10 @@ Objektif kajian ini adalah untuk:
 3. Membantu BPM menyediakan cadangan arkitektur sistem myMRSM yang komprehensif;
 4. Mengenal pasti ruang penambaikan kepada proses dan prosedur sedia ada.
 
-### 1.3.  Lokasi kajian
+### 3.  Lokasi kajian
 
 Kajian akan dilaksanakan di Ibu Pejabat MARA dan MRSM terpilih.
 
-### 1.4. Tempoh pelaksanaan kajian
+### 4. Tempoh pelaksanaan kajian
 
 Keseluruhan projek perlu disiapkan dalam tempoh lima (5) bulan bermula dari tempoh lantikan perunding dibuat. Perunding perlu mencadangkan jadual pelaksanaan kajian secara terperinci kepada MARA.
