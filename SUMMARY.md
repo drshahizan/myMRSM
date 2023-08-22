@@ -5,7 +5,7 @@
 * [Phases and tasks](phases-and-tasks/README.md)
   * [Phase 1: Project Initiation](phases-and-tasks/phase-1-project-initiation.md)
   * [Phase 2: Feasibility Study](phases-and-tasks/phase-2-feasibility-study.md)
-  * [Phase 3: Requirement Analysis](phases-and-tasks/phase-3-requirement-analysis.md)
+  * [Phase 3: Requirement Analysis](phase-3-requirement-analysis.md)
   * [Phase 4: Risk Assessment](phases-and-tasks/phase-4-risk-assessment.md)
   * [Phase 5: Report Preparation](phases-and-tasks/phase-5-report-preparation.md)
   * [Phase 6: Presentation and Decision Making](phases-and-tasks/phase-6-presentation-and-decision-making.md)
