@@ -12,6 +12,7 @@
   * [7: Conclusion and Recommendations](phases-and-tasks/7-conclusion-and-recommendations.md)
 * [Terma Rujukan (TOR)](terma-rujukan-tor/README.md)
   * [Latar belakang kajian](terma-rujukan-tor/latar-belakang-kajian.md)
+  * [Objektif](terma-rujukan-tor/objektif.md)
 
 ## Overview
 
