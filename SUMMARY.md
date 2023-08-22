@@ -1,6 +1,14 @@
 # Table of contents
 
 * [👋 Welcome to A Product](README.md)
+* [Terma Rujukan (TOR)](terma-rujukan-tor/README.md)
+  * [Latar belakang kajian](terma-rujukan-tor/latar-belakang-kajian.md)
+  * [Objektif](terma-rujukan-tor/objektif.md)
+  * [Skop](terma-rujukan-tor/skop.md)
+  * [Output yang dihasilkan](terma-rujukan-tor/output-yang-dihasilkan.md)
+  * [Perkara yang disediakan](terma-rujukan-tor/perkara-yang-disediakan.md)
+* [Aktiviti](aktiviti/README.md)
+  * [Penyiasatan Tapak](aktiviti/penyiasatan-tapak.md)
 * [Jadual Kandungan](jadual-kandungan.md)
 * [Phases and tasks](phases-and-tasks/README.md)
   * [1: Project Initiation](phases-and-tasks/1-project-initiation.md)
@@ -10,13 +18,6 @@
   * [5: Report Preparation](phases-and-tasks/5-report-preparation.md)
   * [6: Presentation and Decision Making](phases-and-tasks/6-presentation-and-decision-making.md)
   * [7: Conclusion and Recommendations](phases-and-tasks/7-conclusion-and-recommendations.md)
-* [Terma Rujukan (TOR)](terma-rujukan-tor/README.md)
-  * [Latar belakang kajian](terma-rujukan-tor/latar-belakang-kajian.md)
-  * [Objektif](terma-rujukan-tor/objektif.md)
-  * [Skop](terma-rujukan-tor/skop.md)
-  * [Output yang dihasilkan](terma-rujukan-tor/output-yang-dihasilkan.md)
-  * [Perkara yang disediakan](terma-rujukan-tor/perkara-yang-disediakan.md)
-* [Penyiasatan Tapak](penyiasatan-tapak.md)
 
 ## Overview
 

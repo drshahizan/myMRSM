@@ -17,3 +17,11 @@ d. Zon Barat - MRSM Lenggong dan MRSM Pasir Salak&#x20;
 e. Sabah - MRSM Kota Kinabalu&#x20;
 
 f. Sarawak - MRSM Kuching
+
+### Aktiviti
+
+i. Ekosistem infra di keseluruhan maktab&#x20;
+
+ii. Temubual bersama pengguna diperingkat MRSM, BPM dan stake holder&#x20;
+
+iii. Perkakasan ICT, server dan rangkaian di MRSM dan BPM.
