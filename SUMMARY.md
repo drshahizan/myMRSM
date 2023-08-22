@@ -2,6 +2,7 @@
 
 * [👋 Welcome to A Product](README.md)
 * [Jadual Kandungan](jadual-kandungan.md)
+* [Phases and tasks](phases-and-tasks.md)
 
 ## Overview
 
