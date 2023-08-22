@@ -1,4 +1,4 @@
-# Pautan
+# Umum
 
 {% embed url="https://ms.wikipedia.org/wiki/Maktab_Rendah_Sains_MARA" %}
 
