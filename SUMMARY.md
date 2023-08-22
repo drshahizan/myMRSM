@@ -8,7 +8,7 @@
   * [Output yang dihasilkan](terma-rujukan-tor/output-yang-dihasilkan.md)
   * [Perkara yang disediakan](terma-rujukan-tor/perkara-yang-disediakan.md)
 * [Aktiviti](aktiviti/README.md)
-  * [Penyiasatan Tapak](aktiviti/penyiasatan-tapak.md)
+  * [Penyiasatan Tapak](penyiasatan-tapak.md)
 * [Jadual Kandungan](jadual-kandungan.md)
 * [Phases and tasks](phases-and-tasks/README.md)
   * [1: Project Initiation](phases-and-tasks/1-project-initiation.md)
