@@ -1,7 +1,15 @@
 # Senarai MRSM
 
-| State           | Name                   | Programs Offered | Year Established | Address                                              | Official Website                                        |
-| --------------- | ---------------------- | ---------------- | ---------------- | ---------------------------------------------------- | ------------------------------------------------------- |
+| State   | Name              | Programs Offered | Year Established | Address                                           | Official Website                      |
+|---------|-------------------|------------------|------------------|---------------------------------------------------|---------------------------------------|
+| Perlis  | MRSM Beseri       | Program Premier  | 1985             | Batu 8 1/2, Jalan Kaki Bukit                    | [beseri.mrsm.edu.my](http://beseri.mrsm.edu.my) |
+|         | MRSM Arau         | Program Premier  | 2019             | Pauh Putra, 02600 Arau                          | [arau.mrsm.edu.my](http://arau.mrsm.edu.my)     |
+| Kedah   | MRSM PDRM Kulim   | Program Premier  | 1991             | PKN Polis Hutan (PPH), KM 5, Jalan Junjung      | [pdrmkulim.mrsm.edu.my](http://pdrmkulim.mrsm.edu.my) |
+|         | MRSM Langkawi     | IGCSE            | 1999             | Jalan Air Hangat, 07000 Langkawi                | [langkawi.mrsm.edu.my](http://langkawi.mrsm.edu.my) |
+|         | MRSM Pendang      | Program Premier  | 2001             | Jalan Jenun, 06750 Pendang                      | [pendang.mrsm.edu.my](http://pendang.mrsm.edu.my) |
+|         | MRSM Kubang Pasu  | IGCSE            | 2007             | Kampung Hutan Terabak, Kubang Pasu, 06000 Jitra | [kpasu.mrsm.edu.my](http://kpasu.mrsm.edu.my) |
+|         | MRSM Merbok       | Program Premier  | 2007             | Jalan Lembah Bujang 2, Kampung Pekan Sebalah    | [merbok.mrsm.edu.my](http://merbok.mrsm.edu.my) |
+|         | MRSM Baling       | Program Premier  | 2010             | Lot 9892, Mukim Pulai, 09100 Baling             | [baling.mrsm.edu.my](http://baling.mrsm.edu.my) |
 | Pulau Pinang    | MRSM Balik Pulau       | IB MYP           | 1982             | Jalan Pondok Upeh                                    | [bpulau.mrsm.edu.my](http://bpulau.mrsm.edu.my)         |
 |                 | MRSM Transkrian        | Program Premier  | 2002             | Mukim Transkrian                                     | [transkrian.mrsm.edu.my](http://transkrian.mrsm.edu.my) |
 |                 | MRSM Kepala Batas      | Ulul Albab       | 2007             | Lot 8784, Mukim 6, Jalan Bertam                      | [kbatas.mrsm.edu.my](http://kbatas.mrsm.edu.my)         |
