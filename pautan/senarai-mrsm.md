@@ -1,7 +1,7 @@
 # Senarai MRSM
 
 | State   | Name              | Programs Offered | Year Established | Address                                           | Official Website                      |
-|---------|-------------------|------------------|------------------|---------------------------------------------------|---------------------------------------|
+|---------|-------------------|------------------|:------------------:|---------------------------------------------------|---------------------------------------|
 | Perlis  | MRSM Beseri       | Program Premier  | 1985             | Batu 8 1/2, Jalan Kaki Bukit                    | [beseri.mrsm.edu.my](http://beseri.mrsm.edu.my) |
 |         | MRSM Arau         | Program Premier  | 2019             | Pauh Putra, 02600 Arau                          | [arau.mrsm.edu.my](http://arau.mrsm.edu.my)     |
 | Kedah   | MRSM PDRM Kulim   | Program Premier  | 1991             | PKN Polis Hutan (PPH), KM 5, Jalan Junjung      | [pdrmkulim.mrsm.edu.my](http://pdrmkulim.mrsm.edu.my) |
