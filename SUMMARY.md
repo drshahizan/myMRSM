@@ -13,6 +13,7 @@
 * [Terma Rujukan (TOR)](terma-rujukan-tor/README.md)
   * [Latar belakang kajian](terma-rujukan-tor/latar-belakang-kajian.md)
   * [Objektif](terma-rujukan-tor/objektif.md)
+  * [Skop](terma-rujukan-tor/skop.md)
 
 ## Overview
 
