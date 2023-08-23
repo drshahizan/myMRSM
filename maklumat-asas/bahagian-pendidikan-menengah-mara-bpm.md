@@ -29,4 +29,4 @@ Bahagian Pendidikan Menengah MARA (BPM) berperanan menjadikan Maktab Rendah Sain
    * Menyelaras kursus dan pembangunan profesionalisme untuk keberkesanan pengajaran dan pembelajaran abad ke-21.
    * Membangunkan kepimpinan dalam pendidikan.
 
-\
+**Sumber**: [https://www.mara.gov.my/bm/sektor-pendidikan/#tab-id-4](https://www.mara.gov.my/bm/sektor-pendidikan/#tab-id-4)\

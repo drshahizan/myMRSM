@@ -40,7 +40,7 @@ Program Pembangunan Pelajar diadakan bertujuan melahirkan pelajar MRSM yang berk
 * Program Amal Islami.
 * Program Mini Ulul Albab (selain MRSM Ulul Albab).
 
-**Program Pembangunan **_**Homeroom**_
+**Program Pembangunan \_Homeroom**\_
 
 * Pelaksanaan Modul _Homeroom_ kepada semua pelajar.
 * Konvensyen _Homeroom_ MRSM Se-Malaysia.

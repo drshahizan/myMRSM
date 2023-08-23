@@ -31,5 +31,5 @@
   * [Senarai MRSM](pautan/senarai-mrsm.md)
   * [Sistem](pautan/sistem.md)
 * [Maklumat asas](maklumat-asas/README.md)
-  * [Pengenalan MRSM](maklumat-asas/pengenalan-mrsm.md)
+  * [Pengenalan MRSM](pengenalan-mrsm.md)
   * [Bahagian Pendidikan Menengah MARA (BPM)](maklumat-asas/bahagian-pendidikan-menengah-mara-bpm.md)
