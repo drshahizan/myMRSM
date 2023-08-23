@@ -44,3 +44,4 @@
       * [International Baccalaureate](maklumat-asas/pengenalan-mrsm/akademik/international-baccalaureate.md)
     * [Kemasukan pelajar](maklumat-asas/pengenalan-mrsm/kemasukan-pelajar.md)
     * [Syarat kemasukan](maklumat-asas/pengenalan-mrsm/syarat-kemasukan.md)
+    * [Lokasi](maklumat-asas/pengenalan-mrsm/lokasi.md)
