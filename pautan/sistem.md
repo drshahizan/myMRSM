@@ -8,6 +8,8 @@
 
 {% embed url="http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp" %}
 
+{% embed url="http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp" %}
+
 ### Lain-lain
 
 {% embed url="https://mrsmict.wixsite.com/mrsmkkmaintainance/aduan-kerosakkan" %}
