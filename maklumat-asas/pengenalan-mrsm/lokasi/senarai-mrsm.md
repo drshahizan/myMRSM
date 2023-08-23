@@ -2,12 +2,7 @@
 
 Berikut merupakan senarai lokasi Maktab Rendah Sains MARA (singkatan: MRSM) di seluruh Malaysia yang dibahagikan mengikut negeri. Sehingga tahun 2022, terdapat 55 buah MRSM yang beroperasi di seluruh Malaysia. 48 buah di Semenanjung Malaysia manakala baki 7 buah MRSM di Malaysia Timur.
 
-| State   | Name              | Programs Offered | Year Established |  Website                 |
-|---------|-------------------|------------------|:------------------:|:----------------------------------:|
-| Perlis  | Beseri            | Program Premier  | 1985             | <a href="http://beseri.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
-|         | Arau              | Program Premier  | 2019             | <a href="http://arau.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
-
-| State   | Name              | Programs Offered | Year Established | Official Website                 |
+| State   | Name              | Programs Offered | Year Established | Website                 |
 |---------|-------------------|------------------|:------------------:|:----------------------------------:|
 | Perlis  | Beseri            | Program Premier  | 1985             | <a href="http://beseri.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
 |         | Arau              | Program Premier  | 2019             | <a href="http://arau.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
@@ -17,12 +12,12 @@ Berikut merupakan senarai lokasi Maktab Rendah Sains MARA (singkatan: MRSM) di s
 |         | Kubang Pasu       | IGCSE            | 2007             | <a href="http://kpasu.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
 |         | Merbok            | Program Premier  | 2007             | <a href="http://merbok.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
 |         | Baling            | Program Premier  | 2010             | <a href="http://baling.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
-| Pulau Pinang    | Balik Pulau       | IB MYP           | 1982             | <a href="" ><img src="website.png" width="36px" height="36px" ></a>http://bpulau.mrsm.edu.my)   |
-|                 | Transkrian        | Program Premier  | 2002             | <a href="" ><img src="website.png" width="36px" height="36px" ></a>http://transkrian.mrsm.edu.my) |
-|                 | Kepala Batas      | Ulul Albab       | 2007             | <a href="" ><img src="website.png" width="36px" height="36px" ></a>http://kbatas.mrsm.edu.my)   |
-| Perak           | Taiping           | Program Bitara   | 1982             | <a href="" ><img src="website.png" width="36px" height="36px" ></a>http://taiping.mrsm.edu.my) |
-|                 | Gerik             | Program Premier  | 1993             | <a href="" ><img src="website.png" width="36px" height="36px" ></a>http://gerik.mrsm.edu.my) |
-|                 | Lenggong          | Program Premier  | 2001             | <a href="" ><img src="website.png" width="36px" height="36px" ></a>http://lenggong.mrsm.edu.my) |
+| Pulau Pinang    | Balik Pulau       | IB MYP           | 1982             | <a href="http://bpulau.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a>   |
+|                 | Transkrian        | Program Premier  | 2002             | <a href="http://transkrian.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
+|                 | Kepala Batas      | Ulul Albab       | 2007             | <a href="http://kbatas.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a>  |
+| Perak           | Taiping           | Program Bitara   | 1982             | <a href="http://taiping.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
+|                 | Gerik             | Program Premier  | 1993             | <a href="http://gerik.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
+|                 | Lenggong          | Program Premier  | 2001             | <a href="http://lenggong.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
 |                 | Pasir Salak       | Program Premier  | 2003             | <a href="" ><img src="website.png" width="36px" height="36px" ></a>http://psalak.mrsm.edu.my) |
 |                 | FELDA (Trolak)    | Ulul Albab       | 2008             | <a href="" ><img src="website.png" width="36px" height="36px" ></a>http://felda.mrsm.edu.my) |
 |                 | Pengkalan Hulu    | Program Premier  | 2008             | <a href="" ><img src="website.png" width="36px" height="36px" ></a>http://phulu.mrsm.edu.my) |
