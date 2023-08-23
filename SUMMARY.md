@@ -35,3 +35,4 @@
   * [Bahagian Pendidikan Menengah MARA (BPM)](maklumat-asas/bahagian-pendidikan-menengah-mara-bpm.md)
   * [Maktab Rendah Sains MARA](maklumat-asas/pengenalan-mrsm/README.md)
     * [Pengenalan](maklumat-asas/pengenalan-mrsm/pengenalan.md)
+    * [Akademik](maklumat-asas/pengenalan-mrsm/akademik.md)
