@@ -36,3 +36,5 @@
   * [Maktab Rendah Sains MARA](maklumat-asas/pengenalan-mrsm/README.md)
     * [Pengenalan](maklumat-asas/pengenalan-mrsm/pengenalan.md)
     * [Akademik](maklumat-asas/pengenalan-mrsm/akademik.md)
+    * [Program Premier](maklumat-asas/pengenalan-mrsm/program-premier.md)
+    * [IGCSE](maklumat-asas/pengenalan-mrsm/igcse.md)
