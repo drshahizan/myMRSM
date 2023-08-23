@@ -2,6 +2,12 @@
 
 Berikut merupakan senarai lokasi Maktab Rendah Sains MARA (singkatan: MRSM) di seluruh Malaysia yang dibahagikan mengikut negeri. Sehingga tahun 2022, terdapat 55 buah MRSM yang beroperasi di seluruh Malaysia. 48 buah di Semenanjung Malaysia manakala baki 7 buah MRSM di Malaysia Timur.
 
+| State   | Name              | Programs Offered | Year Established | Official Website                 |
+|---------|-------------------|------------------|------------------|----------------------------------|
+| Perlis  | Beseri            | Program Premier  | 1985             | <a href="http://beseri.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
+|         | Arau              | Program Premier  | 2019             | <a href="http://arau.mrsm.edu.my" ><img src="website.png" width="36px" height="36px" ></a> |
+
+
 | State           | Name                       | Programs Offered | Year Established | Official Website                                          |
 | --------------- | -------------------------- | ---------------- | :--------------: | --------------------------------------------------------- |
 | Perlis          | Beseri                     | Program Premier  |       1985       | [beseri.mrsm.edu.my](http://beseri.mrsm.edu.my)           |
