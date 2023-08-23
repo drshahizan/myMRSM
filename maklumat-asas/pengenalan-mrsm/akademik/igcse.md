@@ -9,8 +9,4 @@ Dalam program IGCSE, pelajar akan mempelajari dua jenis kurikulum iaitu Kurikulu
 * Peperiksaan IGCSE
 * Peperiksaan SPM
 
-
-
-<figure><img src="http://langkawi.mrsm.edu.my/data/akademik/khas-igcse/khas-igcse-prog1-text.jpg" alt=""><figcaption></figcaption></figure>
-
 Bagi pelajar MRSM-IGCSE, mereka mempunyai kelebihan untuk mengambil peperiksaan IGCSE di akhir Tingkatan 4 dan peperiksaan SPM ketika di Tingkatan 5[\[28\]](https://ms.wikipedia.org/wiki/Maktab\_Rendah\_Sains\_MARA#cite\_note-prospektus-2020-28). Sijil IGCSE boleh digunakan untuk melanjutkan pelajaran di peringkat lebih tinggi seperti A level di United Kingdom atas tajaan sendiri.
