@@ -45,3 +45,4 @@
     * [Syarat kemasukan](maklumat-asas/pengenalan-mrsm/syarat-kemasukan.md)
     * [Lokasi](maklumat-asas/pengenalan-mrsm/lokasi/README.md)
       * [Senarai MRSM](maklumat-asas/pengenalan-mrsm/lokasi/senarai-mrsm.md)
+* [Ujian Kecenderungan Kemasukan MRSM (UKKM)](ujian-kecenderungan-kemasukan-mrsm-ukkm.md)
