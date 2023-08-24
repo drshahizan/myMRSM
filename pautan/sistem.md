@@ -13,3 +13,9 @@
 ### Lain-lain
 
 {% embed url="https://mrsmict.wixsite.com/mrsmkkmaintainance/aduan-kerosakkan" %}
+
+{% embed url="http://e-hostel.net/trans_hostel/" %}
+
+{% embed url="https://mylink.la/nurmujahadah02" %}
+
+{% embed url="https://maranet-my.sharepoint.com/:x:/g/personal/joespenzal_mara_gov_my/EfRb-OhMT8hFqlBPfSu8GZ4BpVBxAzzcNXAz_KWWl_VyFw?e=FqpV7A" %}
