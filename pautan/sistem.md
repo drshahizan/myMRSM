@@ -26,8 +26,8 @@
 | Sistem                                           | Tahun | Web |
 |--------------------------------------------------|:------:|:------------:|
 | Sistem e-Hostel, MRSM Pekan | 2011 |<a href="http://tar.mrsm.edu.my/data/pelajar/asrama/borang-pb.pdf"><img src="website.png"></a> |
-| Sistem e-pelajar, MRSM Trolak | 2011 |<a href="material/e-pelajar.pdf"><img src="website.png"></a> |
-| Sistem e-guru, MRSM Trolak | 2011 |<a href="material/e-guru.pdf"><img src="website.png"></a> |
+| Sistem e-pelajar, MRSM Trolak | 2011 |<a href="material/epelajar.pdf"><img src="website.png"></a> |
+| Sistem e-guru, MRSM Trolak | 2011 |<a href="material/eguru.pdf"><img src="website.png"></a> |
 
 
 
