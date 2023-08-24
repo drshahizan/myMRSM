@@ -2,13 +2,12 @@
 
 ### Sistem Utama
 
-| System  | Website                                                                                                                    |
-|---------|----------------------------------------------------------------------------------------------------------------------------|
-| Sistem Penilaian Purata Nilaian Gred (eSppng Ekstra) | [![Website](website.png)](https://uppmmrsmlangkawi.com/esppng) |
-| e-Guru | [![Website](website.png)](http://www.mrsmsemporna.edu.my/skoq/contents/Loginguru.asp)                                  |
-| e-Pelajar | [![Website](website.png)](http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp)                                      |
-| e-Kokurikulum| [![Website](website.png)](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp)                                      |
-
+| Sistem                                           | Tahun | Web                                                                                                                  |
+|--------------------------------------------------|------|-----------------------------------------------------------------------------------------------------------------------|
+| Sistem Penilaian Purata Nilaian Gred (eSppng Ekstra) | Year | [![Website](website.png)](https://uppmmrsmlangkawi.com/esppng) |
+| e-Guru                                           | Year | [![Website](website.png)](http://www.mrsmsemporna.edu.my/skoq/contents/Loginguru.asp)                             |
+| e-Pelajar                                        | Year | [![Website](website.png)](http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp)                                 |
+| e-Kokurikulum                                    | Year | [![Website](website.png)](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp)                                 |
 
 
 {% embed url="https://uppmmrsmlangkawi.com/esppng" %}
