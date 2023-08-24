@@ -26,56 +26,60 @@ Berikut merupakan perincian format mengikut subjek yang dikongsikan oleh MARA ba
 
 #### 1. Matematik&#x20;
 
-Masa menjawab adalah 30 minit&#x20;
-
-Jumlah soalan Matematik yang perlu dijawab adalah 20 soalan yang berbentuk objektif&#x20;
+* Masa menjawab adalah 30 minit
+* &#x20;Jumlah soalan Matematik yang perlu dijawab adalah 20 soalan yang berbentuk objektif&#x20;
 
 #### 2. Bahasa Inggeris&#x20;
 
-Masa yang diperuntukkan adalah selama 30 minit&#x20;
+* Masa yang diperuntukkan adalah selama 30 minit&#x20;
+* Calon perlu menjawab sejumlah 15 soalan objektif&#x20;
 
-Calon perlu menjawab sejumlah 15 soalan objektif&#x20;
+#### 3. Sains
 
-#### 3. Sains&#x20;
+* Hanya 30 minit diperuntukkan untuk menjawab
+* Terdapat 30 soalan berbentuk objektif&#x20;
 
-Hanya 30 minit diperuntukkan untuk menjawab&#x20;
+#### 4. Ujian Keperibadian&#x20;
 
-Terdapat 30 soalan berbentuk objektif&#x20;
+* Sebanyak 100 soalan objektif yang perlu dijawab&#x20;
+* Calon dikehendaki menjawab dalam masa 30 minit&#x20;
 
-4\. Ujian Keperibadian&#x20;
+#### 5. Ujian Teknikal Tingkatan 1&#x20;
 
-Sebanyak 100 soalan objektif yang perlu dijawab&#x20;
+* Masa menjawab 35 minit&#x20;
+* Bagi calon yang memohon Program Teknikal&#x20;
 
-Calon dikehendaki menjawab dalam masa 30 minit&#x20;
+#### 6. Ujian Khas Ulul Albab Tingkatan 1&#x20;
 
-5\. Ujian&#x20;
+* Masa menjawab yang diperuntukkan adalah 35 minit
+* Khusus untuk calon yang memohon program Ulul Albab, anda diwajibkan untuk menduduki ujian hafazan dan tulisan jawi.
+* Sebagai rujukan kepada calon, berikut adalah nota berkaitan ujian hafazan pada ambilan sebelum ini:
+  * Menghafaz ayat-ayat hafazan dalam masa 25 minit
+  * Aspek yang dinilai adalah kelancaran, tajwid dan hafazan.
+  * Hafazan wajib pada tahun sebelum ini adalah Ayat 1 hingga 12 Surah Al Mulk.&#x20;
 
-Teknikal Tingkatan 1&#x20;
+### Semakan UKKM Dan Ujian Khas Ulul Albab Tingkatan 1 & 4 Tahun 2023&#x20;
 
-Masa menjawab 35 minit&#x20;
+Pihak MARA telah mula memanggil calon untuk menduduki Peperiksaan UKKM dan Ujian Hafazan Ulul Albab serta Ujian Teknikal bermula 23 November 2022 hari Rabu jam 12.30 tengah hari.&#x20;
 
-Bagi calon yang memohon Program Teknikal&#x20;
+Ujian sesi pertama akan dilaksanakan secara berperingkat bermula pada 27 November 2022 hingga 16 Disember 2022 bagi Tingkatan 1 dan 4 di pusat-pusat ujian terpilih. Sila rujuk infografik di bawah:
 
-6\. Ujian Khas Ulul Albab&#x20;
+<figure><img src="https://www.irujukan.my/wp-content/uploads/2020/08/semakan-ujian-kemasukan-mrsm-ukkm-2023.png" alt=""><figcaption></figcaption></figure>
 
-Tingkatan 1&#x20;
+Jemputan untuk menduduki Ujian ini dilaksanakan secara berperingkat dan calon akan dimaklumkan melalui SMS dan emel Sehubungan dengan itu, calon adalah diminta untuk menyemak status tawaran menduduki ujian dari masa kesemasa melalui pautan berikut:
 
-Masa menjawab yang diperuntukkan adalah 35 minit&#x20;
+* Tingkatan 1 : [https://mrsm.mara.gov.my/semakanukkmf1](https://mrsm.mara.gov.my/semakanukkmf1) (akan dikemaskini)&#x20;
+* Tingkatan 4 : [https://mrsm.mara.gov.my/semakanukkmf4](https://mrsm.mara.gov.my/semakanukkmf4) (akan dikemaskini)&#x20;
 
-Khusus untuk calon yang memohon program Ulul Albab, anda diwajibkan untuk menduduki ujian hafazan dan tulisan jawi.&#x20;
+UKKM sesi pertama bagi tingkatan satu dan empat akan bermula 27 November 2022 secara berperingkat sehingga 16 Disember 2022.&#x20;
 
-Sebagai rujukan kepada calon, berikut adalah nota berkaitan ujian hafazan pada ambilan sebelum ini:&#x20;
+#### Info Lanjut&#x20;
 
-Menghafaz ayat-ayat hafazan dalam masa 25 minit&#x20;
+* Tempoh ujian adalah selama 2 jam merangkumi 4 subjek&#x20;
+* Ujian akan dijalankan pada hujung minggu di pusat ujian yang dinyatakan dalam sistem permohonan&#x20;
+* Pilihan tempat melalui sistem permohonan MyMRSM Sila bawa bersama salinan kad pengenalan dan salinan sijil kelahiran pemohon, borang pengesahan pendapatan (jika perlu), borang pengesahan FELDA (jika perlu) dan slip menduduki ujian&#x20;
+* Pemohon akan dimaklumkan berkaitan Ujian melalui SMS/ e-mel dan pemohon diminta untuk menyemak maklumat tersebut melalui sistem semakan.&#x20;
 
-Aspek yang dinilai adalah kelancaran, tajwid dan hafazan.&#x20;
-
-Hafazan wajib pada tahun sebelum ini adalah&#x20;
-
-Ayat 1 hingga 12 Surah Al Mulk.&#x20;
-
-#### Nota Penting&#x20;
-
-SEMUA CALON TINGKATAN 1 & TINGKATAN 4 WAJIB MENDUDUKI UKKM\
+Sebarang pertanyaan atau maklumbalas boleh emel kepada pengambilanmrsm@mara.gov.my. Jika anda menghadapi sebarang masalah atau pertanyaan lanjut, sila rujuk\
 \
 © Sumber Asal Informasi Dari : [https://www.irujukan.my/ukkm-mrsm/](https://www.irujukan.my/ukkm-mrsm/)
