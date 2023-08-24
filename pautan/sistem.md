@@ -9,15 +9,6 @@
 | e-Pelajar                                        | Year | [![Website](website.png)](http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp)                                 |
 | e-Kokurikulum                                    | Year | [![Website](website.png)](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp)                                 |
 
-
-{% embed url="https://uppmmrsmlangkawi.com/esppng" %}
-
-{% embed url="http://www.mrsmsemporna.edu.my/skoq/contents/Loginguru.asp" %}
-
-{% embed url="http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp" %}
-
-{% embed url="http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp" %}
-
 ### Lain-lain
 
 {% embed url="https://mrsmict.wixsite.com/mrsmkkmaintainance/aduan-kerosakkan" %}
