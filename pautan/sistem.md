@@ -25,7 +25,7 @@
 ### Manual Pengguna
 | Sistem                                           | Tahun | Web |
 |--------------------------------------------------|:------:|:------------:|
-| Sistem e-Hostel | 2011 |<a href="http://tar.mrsm.edu.my/data/pelajar/asrama/borang-pb.pdf"><img src="website.png"></a> |
-| Sistem e-Hostel | 2011 |<a href="material/E-HOSTEL.pdf"><img src="website.png"></a> |
+| Sistem e-Hostel, MRSM Pekan | 2011 |<a href="http://tar.mrsm.edu.my/data/pelajar/asrama/borang-pb.pdf"><img src="website.png"></a> |
+| Sistem e-Hostel, MRSM Trolak | 2011 |<a href="material/E-HOSTEL.pdf"><img src="website.png"></a> |
 | MRSM Trolak |  |<a href="https://anyflip.com/homepage/pcwjb/"><img src="website.png"></a> |
 
