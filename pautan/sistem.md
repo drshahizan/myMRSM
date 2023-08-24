@@ -7,7 +7,7 @@
 | Sistem Penilaian Purata Nilaian Gred (eSppng Ekstra) | 2019 | [![Website](website.png)](https://uppmmrsmlangkawi.com/esppng) |
 | e-Guru                                           | 2010 | [![Website](website.png)](http://www.mrsmsemporna.edu.my/skoq/contents/Loginguru.asp)                             |
 | e-Pelajar                                        | 2019 | [![Website](website.png)](http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp)                                 |
-| e-Kokurikulum                                    | Year | [![Website](website.png)](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp)                                 |
+| e-Kokurikulum                                    | 2010 | [![Website](website.png)](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp)                                 |
 
 ### Lain-lain
 
