@@ -20,3 +20,9 @@
 | Borang Laporan Peperiksaan |  |<a href="http://examreportofficialuppmlgg168.uppmlgg.com/index.asp"><img src="website.png"></a> |
 | Kalkulator | 2002 |<a href="http://kalkulatorpng4mrsm.uppmlgg.com/calculatorPNGatas.asp"><img src="website.png"></a> |
 | Senarai kelas |  |<a href="http://www.uppmlgg.com/senaraikelas.html"><img src="website.png"></a> |
+
+
+### Manual Pengguna
+| Sistem                                           | Tahun | Web |
+|--------------------------------------------------|:------:|:------------:|
+| Sistem e-Hostel | 2011 |<a href="http://tar.mrsm.edu.my/data/pelajar/asrama/borang-pb.pdf"><img src="website.png"></a> |
