@@ -32,5 +32,5 @@
 | Sistem keputusan ujian/peperiksaan, MRSM Semporna | <a href="material/semakan_keputusan.pdf"><img src="website.png"></a> |
 | Sistem e-guru, MRSM Trolak | <a href="material/eguru.pdf"><img src="website.png"></a> |
 | Sistem e-Hostel, MRSM Trolak | <a href="material/E-HOSTEL.pdf"><img src="website.png"></a> |
-| Laman web, MRSM Mukah | <a href="material/web-mukahL.pdf"><img src="website.png"></a> |
+| Laman web, MRSM Mukah | <a href="material/web-mukah.pdf"><img src="website.png"></a> |
 
