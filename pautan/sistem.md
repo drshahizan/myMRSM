@@ -34,5 +34,5 @@
 | Sistem e-Hostel, MRSM Trolak | <a href="material/E-HOSTEL.pdf"><img src="website.png"></a> |
 | Laman web, MRSM Mukah | <a href="material/web-mukah.pdf"><img src="website.png"></a> |
 | Panduan pengurusan MRSM, MRSM Pengkalan Chepa | <a href="material/pengurusan_mrsm.pdf"><img src="website.png"></a> |
-| Buku Panduan & Perancangan, MRSM Sungai Besar | <a href="material/panduan.pdf"><img src="website.png"></a> |
+| Buku Panduan & Perancangan, MRSM Sungai Besar | <a href="https://anyflip.com/mkaug/elxb/"><img src="website.png"></a> |
 
