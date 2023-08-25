@@ -34,6 +34,8 @@
 | Sistem keputusan ujian/peperiksaan, MRSM Semporna | <a href="material/semakan_keputusan.pdf"><img src="website.png"></a> |
 | Sistem e-guru, untuk proses Pentaksiran Aktiviti Jasmani, Sukan dan Kokurikulum (PAJSK) | <a href="material/eguru.pdf"><img src="website.png"></a> |
 | Sistem e-Hostel, MRSM Trolak | <a href="material/E-HOSTEL.pdf"><img src="website.png"></a> |
+| Permohonan e-PB (PILIHAN) menggunakan Sistem e-Asrama, MRSM Mersing | <a href="material/e-PB.pdf"><img src="website.png"></a> |
+ e-PB.pdf
 | Laman web, MRSM Mukah | <a href="material/web-mukah.pdf"><img src="website.png"></a> |
 | Panduan pengurusan MRSM, MRSM Pengkalan Chepa | <a href="material/pengurusan_mrsm.pdf"><img src="website.png"></a> |
 | Buku Panduan & Perancangan, MRSM Sungai Besar | <a href="https://anyflip.com/mkaug/elxb/"><img src="website.png"></a> |
