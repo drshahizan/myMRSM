@@ -1,4 +1,4 @@
-# Output yang dihasilkan
+# 4⃣ Output yang dihasilkan
 
 ### 1. Laporan
 
@@ -6,7 +6,7 @@
 
 #### a) Laporan awal
 
-Laporan awal (bertulis dan slaid pembentangan) perlu disediakan sebanyak t i g a ( 3) salinan dan diserahkan kepada MARA yang merangkumi rangka kerja kajian kebolehlaksanaan sistem pengurusan maklumat bersepadu myMRSM meliputi operasi pengurusan dan pembelajaran di seluruh MRSM seperti berikut:
+Laporan awal (bertulis dan slaid pembentangan) perlu disediakan sebanyak tiga ( 3) salinan dan diserahkan kepada MARA yang merangkumi rangka kerja kajian kebolehlaksanaan sistem pengurusan maklumat bersepadu myMRSM meliputi operasi pengurusan dan pembelajaran di seluruh MRSM seperti berikut:
 
 1. Penerangan berkaitan matlamat dan objektif kajian yang ingin dicapai; Gambaran keseluruhan dan kerangka umum kajian;
 2. Perincian mengenai _literature_, kaedah tinjauan, pengumpulan data, model dan rangka kerja kajian yang diperinci dan diperhalusi oleh pakar bidang mengikut objektif kajian yang bersesuaian; dan
