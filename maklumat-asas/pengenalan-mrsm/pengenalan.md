@@ -22,6 +22,12 @@ Beberapa buah MRSM dinaiktaraf kepada [Kolej MARA](https://ms.wikipedia.org/w/in
 
 MRSM Seremban mula menerima pelajar baru bermula pada tahun 1972 sehingga tahun 1985 dan kemudian dinaiktaraf kepada [Kolej MARA Seremban](https://ms.wikipedia.org/w/index.php?title=Kolej\_MARA\_Seremban\&action=edit\&redlink=1) pada tahun 1991[\[8\]](https://ms.wikipedia.org/wiki/Maktab\_Rendah\_Sains\_MARA#cite\_note-kms-8). MRSM Kulim merupakan MRSM keempat dibina pada tahun 1977 dan mengambil seramai 149 orang pelajar tingkatan 1 sebagai kumpulan perintis. Pada tahun 1994, MRSM Kulim dinaiktaraf dan ditukar nama kepada [Kolej MARA Kulim](https://ms.wikipedia.org/w/index.php?title=Kolej\_MARA\_Kulim\&action=edit\&redlink=1) yang kini menjalankan program matrikulasi Kementerian Pelajaran Malaysia, Program Persediaan Keusahawanan Sains Universiti Malaysia Kelantan[\[15\]](https://ms.wikipedia.org/wiki/Maktab\_Rendah\_Sains\_MARA#cite\_note-kmk-15) dan program asasi UniKL. Manakala, MRSM Banting pula mula dibuka pada tahun 1992 dan dinaiktaraf kepada [Kolej MARA Banting](https://ms.wikipedia.org/wiki/Kolej\_MARA\_Banting) pada tahun 1994 yang kini menawarkan program _International Baccalaureate_ dan _General Certificate of Education Advanced Level_ (GCE A-Level)[\[16\]](https://ms.wikipedia.org/wiki/Maktab\_Rendah\_Sains\_MARA#cite\_note-16).
 
-\
+### **Visi MRSM**
+
+Menjadikan MRSM sebagai pusat kecemerlangan pendidikan yang inovatif dan bertaraf dunia.
+
+### **Misi MRSM**
+
+Melahirkan pelajar bumiputera yang berpotensi tinggi dalam bidang sains, teknologi, kejuruteraan dan matematik (STEM) serta mempunyai ciri-ciri keusahawanan.\
 
 
