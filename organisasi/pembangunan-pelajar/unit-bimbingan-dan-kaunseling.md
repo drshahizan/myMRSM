@@ -15,3 +15,41 @@ Mewujudkan iklim pendidikan yang kondusif, Teraputik dan elektif dari aspek fizi
 ### Misi
 
 Dengan penuh rasa tanggungjawab dan bersungguh-sungguh menyediakan perkhidmatan membantu pelajar dari aspek pengayaan, perkembangan, pencegahan dan pemulihan untuk mempertingkatkan pengetahuan, ketrampilan dan konsep kendiri positif yang perlu dalam menghasilkan masyarakat madani melalui perkhidmatan bimbingan dan kaunseling yang berkesan serta beramanah berteraskan falsafah pendidikan kebangsaan.
+
+### Peranan Dan Perkhidmatan Guru Bimbingan
+
+#### Perkembangan Personaliti
+
+Guru Bimbingan boleh membantu pelajar membentuk personaliti yang sihat dan membimbing pelajar supaya menimbulkan perasaan dan kepercayaan bahawa dirinya diperlukan dan dihargai.
+
+#### Keselesaan Emosi
+
+Guru Bimbingan boleh memberi perkhidmatan kaunseling secara individu ataupun kelompok supaya dapat memperbaiki keadaan diri. Sesi kaunseling adalah sulit. Di samping itu Guru Bimbingan membimbing pelajar supaya memahami dan mengenalpasti tingkahlaku yang tidak diterima oleh masyarakat dan membimbing pelajar supaya bertingkahlaku yang tidak merosakkan diri.
+
+#### Perkembangan Kerjaya
+
+Guru Bimbingan boleh membimbing pelajar menyediakan diri untuk dunia pekerjaan. Pelajar dibimbing untuk mempelajari isu-isu peribadi dan pekerjaan seperti kedudukan akademik, konsep diri, nilai yang dipegang, minat diri, peluang dan prospek pekerjaan.
+
+#### Perkembangan Pembelajaran
+
+Guru Bimbingan bertanggungjawab menjaga kedudukan akademik pelajar dan menentukan supaya pelajar memperoleh pencapaian yang setaraf dengan keupayaan akademiknya.
+
+#### Penyesuaian Diri
+
+Guru Bimbingan boleh membimbing pelajar supaya dapat menyesuaikan diri dalam suasana yang berlainan seperti menyesuaikan diri dengan kehidupan di MRSM, sistem akademik di MRSM dan penyesuaian dengan dunia luas di luar.
+
+#### Pentadbiran dan Penyimpanan Rekod
+
+Guru Bimbingan menyimpan rekod berkaitan dengan kliennya dan membantu tugas Hal Ehwal Pelajar. Guru Bimbingan juga menyimpan rekod berkaitan konsep kendiri pelajar, kecenderungan kerjaya, kemajuan kelas subjek khas dan program lain yang berkaitan dengan kecenderungan emosi.
+
+#### Kajian
+
+Guru Bimbingan menjalankan kaji selidik dan kajian supaya dapat membantu maktab dalam perancangannya.
+
+#### Pakar Runding / Pakar Rujuk
+
+Guru Bimbingan berperanan selaku pakar runding dalam hal-hal perkembangan personaliti, remaja, tingkah laku, perasaan, komunikasi dan proses kaunseling.
+
+#### Perhubungan Dengan Agensi Luar
+
+Jika Guru Bimbingan tidak berkemampuan untuk membantu pelajar, Guru Bimbingan boleh menentukan agensi luar untuk merujukkan pelajar tersebut. Di samping itu, Guru Bimbingan membentuk perhubungan dengan ibu bapa / penjaga, guru, persatuan dan badan profesional, pihak ibu pejabat MARA dan MRSM lain untuk kebaikan dan perkembangan pelajar.
