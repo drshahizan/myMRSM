@@ -16,6 +16,8 @@ Mewujudkan iklim pendidikan yang kondusif, Teraputik dan elektif dari aspek fizi
 
 Dengan penuh rasa tanggungjawab dan bersungguh-sungguh menyediakan perkhidmatan membantu pelajar dari aspek pengayaan, perkembangan, pencegahan dan pemulihan untuk mempertingkatkan pengetahuan, ketrampilan dan konsep kendiri positif yang perlu dalam menghasilkan masyarakat madani melalui perkhidmatan bimbingan dan kaunseling yang berkesan serta beramanah berteraskan falsafah pendidikan kebangsaan.
 
+<figure><img src="../../.gitbook/assets/model kaunseling.png" alt="" width="375"><figcaption><p>Model Kaunseling MRSM</p></figcaption></figure>
+
 ### Peranan Dan Perkhidmatan Guru Bimbingan
 
 #### Perkembangan Personaliti
