@@ -51,6 +51,7 @@
     * [Badan Kepimpinan Pelajar](organisasi/pembangunan-bakat/badan-kepimpinan-pelajar.md)
     * [Penilaian Kokurikulum](organisasi/pembangunan-bakat/penilaian-kokurikulum.md)
     * [Aktiviti Kokurikulum](organisasi/pembangunan-bakat/aktiviti-kokurikulum.md)
+    * [Aktiviti Kebangsaan MRSM Se-Malaysia](organisasi/pembangunan-bakat/aktiviti-kebangsaan-mrsm-se-malaysia.md)
     * [Koperasi](organisasi/pembangunan-bakat/koperasi.md)
 * [Maklumat asas](maklumat-asas/README.md)
   * [MARA](maklumat-asas/mara.md)
