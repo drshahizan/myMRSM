@@ -36,6 +36,7 @@
     * [Program Akademik](organisasi/kecemerlangan-akademik/program-akademik.md)
     * [Unit Penilaian & Peperiksaan MRSM (UPPM)](organisasi/kecemerlangan-akademik/unit-penilaian-and-peperiksaan-mrsm-uppm.md)
     * [International General Certificate Of Secondary Education (IGCSE)](organisasi/kecemerlangan-akademik/international-general-certificate-of-secondary-education-igcse.md)
+    * [Program Ulul Albab (UA)](organisasi/kecemerlangan-akademik/program-ulul-albab-ua.md)
     * [Program Khas MRSM](organisasi/kecemerlangan-akademik/program-khas-mrsm/README.md)
       * [Kemahiran Asas Tingkatan 1](organisasi/kecemerlangan-akademik/program-khas-mrsm/kemahiran-asas-tingkatan-1.md)
       * [MARA Intensive Gifted & Talented Youth](organisasi/kecemerlangan-akademik/program-khas-mrsm/mara-intensive-gifted-and-talented-youth.md)

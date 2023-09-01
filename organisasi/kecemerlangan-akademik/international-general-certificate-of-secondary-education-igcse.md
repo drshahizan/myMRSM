@@ -6,7 +6,6 @@ SPMRSM IGCSE atau dikenali juga sebagai program dwisijil merupakan sistem pendid
 
 ### Objectives Of The Dual Certification Programme
 
-\
 ✔ To provide alternative secondary education system through SPMRSM IGCSE\
 ✔ To produce holistic students who are academically balanced, equipped with self value and embody the Cambridge learner attributes.\
 ✔ To produce students who will opt for professional fields in local and international higher institutions.
@@ -19,7 +18,7 @@ IGCSE curriculum emphasises on developing oral and practical skills. The approac
 
 MARA has initiated the internal training programmes to help the implementation of programmes’ administration and CAIE offered training courses related with subjects’ content, teaching & learning, and also the assessment for related subjects.
 
-### Assessment Of SPMRSM IGCSE
+### Assessment of SPMRSM IGCSE
 
 Assessment for Lower Secondary\
 ✔ Cambridge Checkpoint\
