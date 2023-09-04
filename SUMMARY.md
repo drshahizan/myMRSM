@@ -51,6 +51,7 @@
         * [Jabatan Sains](maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/jabatan/jabatan-sains.md)
         * [Jabatan Bahasa](maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/jabatan/jabatan-bahasa.md)
         * [Jabatan Sains Sosial](maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/jabatan/jabatan-sains-sosial.md)
+      * [Jabatan Pendidikan Islam](maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/jabatan-pendidikan-islam.md)
       * [Program Akademik](mrsm/maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/program-akademik.md)
       * [Unit Penilaian & Peperiksaan MRSM (UPPM)](mrsm/maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/unit-penilaian-and-peperiksaan-mrsm-uppm.md)
       * [Program Khas MRSM](mrsm/maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/program-khas-mrsm/README.md)
