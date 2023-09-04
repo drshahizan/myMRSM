@@ -49,6 +49,7 @@
       * [Program Ulul Albab (UA)](organisasi/kecemerlangan-akademik/program-khas-mrsm/program-ulul-albab-ua.md)
   * [Pembangunan Bakat](organisasi/pembangunan-bakat/README.md)
     * [Unit Kokurikulum](organisasi/pembangunan-bakat/unit-kokurikulum.md)
+    * [Badan Beruniform](organisasi/pembangunan-bakat/badan-beruniform.md)
     * [Badan Kepimpinan Pelajar](organisasi/pembangunan-bakat/badan-kepimpinan-pelajar.md)
     * [Penilaian Kokurikulum](organisasi/pembangunan-bakat/penilaian-kokurikulum.md)
     * [Aktiviti Kokurikulum](organisasi/pembangunan-bakat/aktiviti-kokurikulum/README.md)
