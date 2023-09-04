@@ -5,8 +5,8 @@
 
 | Sistem                                               | Tahun |
 | ---------------------------------------------------- | :---: |
-| [Permohonan Kemasukan Ke MRSM](sistem.md)            |  20XX |
-| [Semakan Ujian Kemasukan Ke MRSM](https://mrsm.mara.gov.my/MARATawaranf1/frmLoginSemakanF1.aspx) |  20XX |
+| [Permohonan Kemasukan ke MRSM](sistem.md)            |  20XX |
+| [Semakan Ujian Kemasukan ke MRSM](https://mrsm.mara.gov.my/MARATawaranf1/frmLoginSemakanF1.aspx) |  20XX |
 | [e-Pelajar](http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp) |  2019 |
 | [e-Guru](http://www.mrsmsemporna.edu.my/skoq/contents/Loginguru.asp) |  2010 |
 | [Sistem Penilaian Purata Nilaian Gred (eSppng Ekstra)](https://uppmmrsmlangkawi.com/esppng) |  2009 |
