@@ -64,4 +64,4 @@ Setiap homeroom akan diberikan markah permulaan sebanyak 500 markah dan penilaia
 8. Tiga orang ahli homeroom/lebih mewakili maktab dalam kokurikulum&#x20;
 9. Peratus kedatangan ahli homeroom setiap kali perjumpaan wajib 100%
 
-<figure><img src="../../../../.gitbook/assets/merit (1).png" alt="" width="361"><figcaption><p>Langkah Pengiraan Merit/Demerit</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/merit (1).png" alt="" width="361"><figcaption><p>Langkah Pengiraan Merit/Demerit</p></figcaption></figure>
