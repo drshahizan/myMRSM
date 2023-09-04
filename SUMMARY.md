@@ -49,6 +49,7 @@
       * [Kecemerlangan Akademik](mrsm/maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/README.md)
         * [Jabatan](mrsm/maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/jabatan/README.md)
           * [Jabatan Matematik](mrsm/maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/jabatan/jabatan-matematik.md)
+        * [Jabatan Sains](mrsm/maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/jabatan-sains.md)
         * [Program Akademik](mrsm/maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/program-akademik.md)
         * [Unit Penilaian & Peperiksaan MRSM (UPPM)](mrsm/maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/unit-penilaian-and-peperiksaan-mrsm-uppm.md)
         * [Program Khas MRSM](mrsm/maklumat-asas/pengenalan-mrsm/entiti/kecemerlangan-akademik/program-khas-mrsm/README.md)

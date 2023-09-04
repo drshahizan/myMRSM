@@ -24,18 +24,13 @@ Program Pembudayaan Matematik merupakan salah satu aktiviti yang dijalankan hamp
 ✔ Kijang Economy Competition (KEC) • Keputusan Pertandingan: 1 Perak, 1 Gangsa, 5 Sanjungan Kehormat\
 ✔ International Mathematical Olympiad National Selection Test Malaysia (IMONST 2) • Keputusan Pertandingan: 1 orang terpilih ke bengkel IMO (BIMO)
 
-\
-Perkongsian Taklimat Penataran Subjek Matematik Format Baharu Kurikulum Standard Sekolah Menengah (KSSM)
+### Perkongsian Taklimat Penataran Subjek Matematik Format Baharu Kurikulum Standard Sekolah Menengah (KSSM)
 
 Taklimat Penataran Subjek Matematik Format Baharu Kurikulum Standard Sekolah Menengah (KSSM) Sijil Pelajaran Malaysia (SPM) Mulai 2021 Peringkat Negeri telah diterima daripada Jabatan Pendidikan Negeri Melaka.\
 \
-Perkongsian dibuat untuk memastikan semua perancangan unit dilaksanakan mengikut format baharu.\
-\
-![](http://tgb.mrsm.edu.my/data/akademik/jab-matematik/jab-matematik-prog2.jpg)\
-\
-![](http://tgb.mrsm.edu.my/data/akademik/jab-matematik/jab-matematik-prog3.jpg)
+Perkongsian dibuat untuk memastikan semua perancangan unit dilaksanakan mengikut format baharu.
 
-### &#x20;Program SPA
+### Program SPA
 
 Pelbagai pendekatan dibuat dalam 'Program SPA' untuk Jabatan Matematik seperti ExNumbers (games), Hots (menjawab soalan) dan sebagainya.\
 \
@@ -49,13 +44,9 @@ Bengkel-bengkel ini dirancang mengikut keperluan guru-guru dari semasa ke semasa
 Guru-guru diberi taklimat mengenai cara mengisi e-FRM, menyalin maklumat dari eRPH ke eFRM dan menghantar tugasan untuk pelajar serta menyemak tugasan yang dihantar.\
 \
 ✔BENGKEL E-REKOD RAWATAN PELAJAR\
-Sistem e-Rekod Rawatan Pelajar dibangunkan untuk kegunaan guru-guru untuk melihat senarai pelajar yang kurang sihat sama ada mendapat MC daripada klinik atau hospital dan kebenaran untuk berehat di bilik sakit MRSM Tun Ghafar Baba. Sehubungan dengan itu, Pengurus Asrama ditugaskan untuk memasukkan data rawatan pelajar\
-\
-![](http://tgb.mrsm.edu.my/data/akademik/jab-matematik/jab-matematik-prog4.jpg)\
-\
-![](http://tgb.mrsm.edu.my/data/akademik/jab-matematik/jab-matematik-prog5.jpg)
+Sistem e-Rekod Rawatan Pelajar dibangunkan untuk kegunaan guru-guru untuk melihat senarai pelajar yang kurang sihat sama ada mendapat MC daripada klinik atau hospital dan kebenaran untuk berehat di bilik sakit MRSM Tun Ghafar Baba. Sehubungan dengan itu, Pengurus Asrama ditugaskan untuk memasukkan data rawatan pelajar
 
-### &#x20;Lawatan Penanda Aras
+### Lawatan Penanda Aras
 
 Lawatan Penanda Aras ke RHB Bank Melaka Raya untuk melihat topik-topik Matematik dan Matematik Tambahan yang boleh di kaitkan dengan perbankkan.\
 \
