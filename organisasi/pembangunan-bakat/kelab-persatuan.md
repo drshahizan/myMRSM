@@ -2,8 +2,6 @@
 
 Terdapat 26 Kelab/Persatuan yang dilaksanakandi MRSM Tun Ghafar Baba, iaitu;
 
-
-
 1. Kelab Aeronautik
 2. Kelab Algorist&#x20;
 3. Kelab Alam Sekitar&#x20;
