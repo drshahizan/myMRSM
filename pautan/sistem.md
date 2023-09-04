@@ -2,14 +2,16 @@
 
 ### Sistem Utama
 
-| Sistem                                               | Tahun |                                           Web                                          |
-| ---------------------------------------------------- | :---: | :------------------------------------------------------------------------------------: |
-| Permohonan Kemasukan Ke MRSM                         |  20XX |                           [![](broken-reference)](sistem.md)                           |
-| Semakan Ujian Kemasukan Ke MRSM                      |  20XX | [![](broken-reference)](https://mrsm.mara.gov.my/MARATawaranf1/frmLoginSemakanF1.aspx) |
-| e-Pelajar                                            |  2019 |     [![](broken-reference)](http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp)     |
-| e-Guru                                               |  2010 |   [![](broken-reference)](http://www.mrsmsemporna.edu.my/skoq/contents/Loginguru.asp)  |
-| Sistem Penilaian Purata Nilaian Gred (eSppng Ekstra) |  2009 |              [![](broken-reference)](https://uppmmrsmlangkawi.com/esppng)              |
-| e-Kokurikulum                                        |  2010 |     [![](broken-reference)](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp)     |
+
+| Sistem                                               | Tahun |
+| ---------------------------------------------------- | :---: |
+| [Permohonan Kemasukan Ke MRSM](sistem.md)            |  20XX |
+| [Semakan Ujian Kemasukan Ke MRSM](https://mrsm.mara.gov.my/MARATawaranf1/frmLoginSemakanF1.aspx) |  20XX |
+| [e-Pelajar](http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp) |  2019 |
+| [e-Guru](http://www.mrsmsemporna.edu.my/skoq/contents/Loginguru.asp) |  2010 |
+| [Sistem Penilaian Purata Nilaian Gred (eSppng Ekstra)](https://uppmmrsmlangkawi.com/esppng) |  2009 |
+| [e-Kokurikulum](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp) |  2010 |
+
 
 ### Lain-lain
 
