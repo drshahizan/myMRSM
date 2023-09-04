@@ -2,7 +2,7 @@
 
 SPMRSM IGCSE atau dikenali juga sebagai program dwisijil merupakan sistem pendidikan MRSM yang menawarkan dua sijil kepada pelajar iaitu Cambridge IGCSE dan SPM sepanjang lima tahun tempoh persekolahan. Pelajar akan mempelajari kedua-dua kurikulum kebangsaan (KBSM) dan juga Cambridge International. Integrasi kurikulum ini akan memberi nilai tambah kepada pengalaman pembelajaran pelajar. Pelajar akan menduduki Cambridge IGCSE pada tahun akhir tahun tingkatan 4 dan SPM pada akhir tahun tingkatan 5. Pelajar-pelajar amat digalakkan untuk belajar melangkaui SPM.
 
-<figure><img src="../../../.gitbook/assets/khas-igcse.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/khas-igcse.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Objectives Of The Dual Certification Programme
 
