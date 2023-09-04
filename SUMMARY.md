@@ -20,7 +20,7 @@
   * [Umum](pautan/umum.md)
   * [Sistem](pautan/sistem.md)
 
-## MRSM
+## Maklumat Asas
 
 * [Maklumat asas](maklumat-asas/README.md)
   * [MARA](maklumat-asas/mara.md)
