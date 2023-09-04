@@ -21,8 +21,6 @@
   * [Sistem](pautan/sistem.md)
 
 ## Maklumat Asas
-
-* [Maklumat asas](maklumat-asas/README.md)
   * [MARA](maklumat-asas/mara.md)
   * [Bahagian Pendidikan Menengah MARA (BPM)](maklumat-asas/bahagian-pendidikan-menengah-mara-bpm.md)
   * [Maktab Rendah Sains MARA](maklumat-asas/pengenalan-mrsm/README.md)
