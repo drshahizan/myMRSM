@@ -29,7 +29,7 @@
 | [Sistem e-guru, untuk proses Pentaksiran Aktiviti Jasmani, Sukan dan Kokurikulum (PAJSK)](material/eguru.pdf)                                |
 | [Sistem e-Hostel, MRSM Trolak](material/E-HOSTEL.pdf)                                                                                        |
 | [Permohonan e-PB (PILIHAN) menggunakan Sistem e-Asrama, MRSM Mersing](material/e-PB.pdf)                                                     |
-| [e-PB.pdf](material/e-PB.pdf)                                                                                                                |
+| [e-PB](material/e-PB.pdf)                                                                                                                    |
 | [Laman web, MRSM Mukah](material/web-mukah.pdf)                                                                                              |
 | [Panduan pengurusan MRSM, MRSM Pengkalan Chepa](material/pengurusan\_mrsm.pdf)                                                               |
 | [Buku Panduan & Perancangan, MRSM Sungai Besar](https://anyflip.com/mkaug/elxb/)                                                             |
