@@ -34,12 +34,7 @@
 | 9. Lain-lain | [Sistem Pengurusan Sekolah](https://mrsm.awfatech.com/sas/) |
 | 9. Lain-lain | [Sistem Tempahan Bilik](http://www.pspmrsmkputra.com/cendana/mrbs/web/day.php?year=2023&month=09&day=04&area=17&room=0) |
 
-ok | 3. Pengurusan akademik| [Sistem Penilaian Purata Nilaian Gred (eSppng Ekstra)](https://uppmmrsmlangkawi.com/esppng)             |
-ok | 4. Pengurusan kokurikulum dan ko-akademik | [e-Kokurikulum](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp)                                   |
-| 2. Pengurusan pelajar| [Sistem data profil pelajar](http://www.uppmlgg.com/esppng/esppngextra/menuxxx_login.asp)                 |
-| 2. Pengurusan pelajar| [Integrated e-Hostel Management System](http://e-hostel.net/trans_hostel)                       |
-| 2. Pengurusan pelajar| [Semakan hutang caruman, Muafakat dan Buku Teks](https://form.jotform.com/223253997071461)                   |
-
+### Modul
 1. Pengurusan pengambilan pelajar 
 2. Pengurusan pelajar 
 3. Pengurusan akademik 
@@ -48,3 +43,4 @@ ok | 4. Pengurusan kokurikulum dan ko-akademik | [e-Kokurikulum](http://www.mrsm
 6. Pengurusan Learning Management System (LMS) 
 7. Pengurusan pelaporan maklumat eksekutif (dashboard) 
 8. Aplikasi mudah alih (mobile app)
+9. Lain-lain
