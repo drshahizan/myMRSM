@@ -28,7 +28,6 @@
 | 9. Lain-lain | [Saluran aduan/maklum balas pelanggan](https://form.jotform.com/210074491832452) |
 | 9. Lain-lain | [Sistem Pengurusan Sekolah](https://mrsm.awfatech.com/sas/) |
 | 9. Lain-lain | [Sistem Tempahan Bilik](http://www.pspmrsmkputra.com/cendana/mrbs/web/day.php?year=2023&month=09&day=04&area=17&room=0) |
-                                                       |
 
 1. Pengurusan pengambilan pelajar 
 2. Pengurusan pelajar 
