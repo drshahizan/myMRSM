@@ -16,17 +16,17 @@
 | 4. Pengurusan kokurikulum dan ko-akademik| [Sistem Pengurusan Pentaksiran Aktiviti Jasmani, Sukan & Ko Kurikulum](http://syspajskxxxonline.uppmlgg.com/index_pajsk.asp) |
 | 3. Pengurusan akademik | [Templat Headcount Individu](https://maranet-my.sharepoint.com/:x:/g/personal/joespenzal_mara_gov_my/EfRb-OhMT8hFqlBPfSu8GZ4BpVBxAzzcNXAz_KWWl_VyFw?e=FqpV7A) |
 | 3. Pengurusan akademik | [Borang Laporan Peperiksaan](http://examreportofficialuppmlgg168.uppmlgg.com/index.asp)                    |
-| 3. Pengurusan akademik 5| [Kalkulator](http://kalkulatorpng4mrsm.uppmlgg.com/calculatorPNGatas.asp)                                  |
+| 3. Pengurusan akademik | [Kalkulator](http://kalkulatorpng4mrsm.uppmlgg.com/calculatorPNGatas.asp)                                  |
 | 3. Pengurusan akademik | [Senarai kelas](http://www.uppmlgg.com/senaraikelas.html)                                                    |
-| Module 17| [e-Hostel: Permohonan PB, Outing dan Kecemasan](http://www.e-hostel.net/joba_hostel/loginPenjaga.php)       |
+| 2. Pengurusan pelajar | [e-Hostel: Permohonan PB, Outing dan Kecemasan](http://www.e-hostel.net/joba_hostel/loginPenjaga.php)       |
 | 9. Lain-lain | [Library Management System](http://pspmrsmsaskualakangsar.com/)                                              |
-| Module 19| [Sistem Pengurusan Sekolah](https://mrsm.awfatech.com/sas/)                                                   |
-| Module 20| [Sistem Tempahan Bilik](http://www.pspmrsmkputra.com/cendana/mrbs/web/day.php?year=2023&month=09&day=04&area=17&room=0) |
+| 9. Lain-lain | [Sistem Pengurusan Sekolah](https://mrsm.awfatech.com/sas/)                                                   |
+| 9. Lain-lain | [Sistem Tempahan Bilik](http://www.pspmrsmkputra.com/cendana/mrbs/web/day.php?year=2023&month=09&day=04&area=17&room=0) |
 | 2. Pengurusan pelajar | [e-outing system](http://www.e-hostel.net/putra_outing/)                                                     |
-| Module 22| [e-hafazan](http://ehafazanua.com/mrsmkp.html?button=LAMAN+UTAMA%0D%0A)                                      |
+| 4. Pengurusan kokurikulum dan ko-akademik | [e-hafazan](http://ehafazanua.com/mrsmkp.html?button=LAMAN+UTAMA%0D%0A)                                      |
 | 2. Pengurusan pelajar | [Semakan hutang caruman, Muafakat dan Buku Teks](https://form.jotform.com/223253997071461)                   |
-| Module 24| [Saluran aduan/maklum balas pelanggan](https://form.jotform.com/210074491832452)                           |
-| Module 25| [Pusat Sumber Pembelajaran](https://www.pspbaitulilmi.com/)                                                  |
+| 9. Lain-lain | [Saluran aduan/maklum balas pelanggan](https://form.jotform.com/210074491832452)                           |
+| 9. Lain-lain | [Pusat Sumber Pembelajaran](https://www.pspbaitulilmi.com/)                                                  |
 | 3. Pengurusan akademik | [Sistem Pengurusan Buku Teks](http://pspbaitulilmitmfs.com/spteks/login.php)                                 |
 | 2. Pengurusan pelajar | [Borang permohonan pulang bermalam (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLScJqR1fAepW8t35u-HG3jgid7SXLW8gXjoLbEz0KXsFV-5_Qw/viewform) |
 | 2. Pengurusan pelajar | [Borang Mengemukakan Pelajar Untuk Kaunseling (UPK 4) (Microsoft Forms)](https://forms.office.com/pages/responsepage.aspx?id=gkACjlBbekSQabWlR-NKMPUt-QDdaPBIrdbGqYaXNrFUN0VVSk5WSTBZTjNDSjg2U05CVFpTUVY5Uy4u) |
