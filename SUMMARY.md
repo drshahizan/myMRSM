@@ -1,21 +1,21 @@
 # Table of contents
 
 * [💠 Terma Rujukan (TOR)](README.md)
-  * [1⃣ Latar belakang kajian](terma-rujukan-tor/latar-belakang-kajian.md)
-  * [2⃣ Objektif](terma-rujukan-tor/objektif.md)
-  * [3⃣ Skop](terma-rujukan-tor/skop.md)
-  * [4⃣ Output yang dihasilkan](terma-rujukan-tor/output-yang-dihasilkan.md)
-  * [5⃣ Perkara yang disediakan](terma-rujukan-tor/perkara-yang-disediakan.md)
+  * [1⃣ 1⃣ Latar belakang kajian](terma-rujukan-tor/latar-belakang-kajian.md)
+  * [2⃣ 2⃣ Objektif](terma-rujukan-tor/objektif.md)
+  * [3⃣ 3⃣ Skop](terma-rujukan-tor/skop.md)
+  * [4⃣ 4⃣ Output yang dihasilkan](terma-rujukan-tor/output-yang-dihasilkan.md)
+  * [5⃣ 5⃣ Perkara yang disediakan](terma-rujukan-tor/perkara-yang-disediakan.md)
 * [🔦 Aktiviti](aktiviti/README.md)
-  * [1⃣ Pengumpulan data](aktiviti/pengumpulan-data/README.md)
+  * [1⃣ 1⃣ Pengumpulan data](aktiviti/pengumpulan-data/README.md)
     * [Perkara yang perlu dianalisis](aktiviti/pengumpulan-data/perkara-yang-perlu-dianalisis.md)
-  * [2⃣ Penyiasatan Tapak](penyiasatan-tapak.md)
-  * [3⃣ Kajian Ekosistem ICT](aktiviti/kajian-ekosistem-ict.md)
+  * [2⃣ 2⃣ Penyiasatan Tapak](penyiasatan-tapak.md)
+  * [3⃣ 3⃣ Kajian Ekosistem ICT](aktiviti/kajian-ekosistem-ict.md)
 * [📖 Hasil](hasil/README.md)
-  * [1⃣ Laporan awal](hasil/laporan-awal.md)
-  * [2⃣ Laporan kemajuan](hasil/laporan-kemajuan.md)
-  * [3⃣ Laporan akhir](hasil/laporan-akhir.md)
-  * [4⃣ Pembentangan](hasil/pembentangan.md)
+  * [1⃣ 1⃣ Laporan awal](hasil/laporan-awal.md)
+  * [2⃣ 2⃣ Laporan kemajuan](hasil/laporan-kemajuan.md)
+  * [3⃣ 3⃣ Laporan akhir](hasil/laporan-akhir.md)
+  * [4⃣ 4⃣ Pembentangan](hasil/pembentangan.md)
 
 ## Maklumat Asas
 
@@ -78,11 +78,13 @@
     * [Manual Pengguna](maklumat-asas/pengenalan-mrsm/pautan/manual-pengguna.md)
     * [Borang](maklumat-asas/pengenalan-mrsm/pautan/borang.md)
     * [Web MRSM](maklumat-asas/pengenalan-mrsm/pautan/senarai-mrsm.md)
+
 ## Lawatan Tapak
-* [Feasibility Study](maklumat-asas/feasibility-study.md)
-* [Forms](maklumat-asas/forms.md)
-* [Interview Questions](maklumat-asas/interview-questions.md)
-* [Observation activities](maklumat-asas/observation-activities.md)
+
+* [Feasibility Study](lawatan-tapak/feasibility-study/README.md)
+  * [Forms](lawatan-tapak/feasibility-study/forms.md)
+  * [Interview Questions](lawatan-tapak/feasibility-study/interview-questions.md)
+  * [Observation activities](lawatan-tapak/feasibility-study/observation-activities.md)
 * [🎆 Lain-lain](lain-lain/README.md)
   * [Jadual Kandungan](lain-lain/jadual-kandungan.md)
   * [Phases and tasks](lain-lain/phases-and-tasks/README.md)
