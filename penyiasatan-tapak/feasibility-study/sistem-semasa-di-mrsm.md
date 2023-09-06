@@ -1,11 +1,11 @@
 # Sistem semasa di MRSM
 
-| Module  | Sistem                                         |
+| Modul | Sistem                                         |
 |---------|-----------------------------------------------|
-| Module 1| [Permohonan Kemasukan ke MRSM](../../maklumat-asas/pengenalan-mrsm/pautan/sistem.md)                  |
-| Module 2| [Semakan Ujian Kemasukan ke MRSM](https://mrsm.mara.gov.my/MARATawaranf1/frmLoginSemakanF1.aspx)      |
-| Module 3| [e-Pelajar](http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp)                                      |
-| Module 4| [e-Guru](http://www.mrsmsemporna.edu.my/skoq/contents/Loginguru.asp)                                     |
+| 1. Pengambilan pelajar | [Permohonan Kemasukan ke MRSM](../../maklumat-asas/pengenalan-mrsm/pautan/sistem.md)                  |
+| 1. Pengambilan pelajar | [Semakan Ujian Kemasukan ke MRSM](https://mrsm.mara.gov.my/MARATawaranf1/frmLoginSemakanF1.aspx)      |
+| 2. Pengurusan pelajar | [e-Pelajar](http://www.mrsmkotakinabalu.edu.my/epelajar/login.asp)                                      |
+| 5. Pengurusan guru | [e-Guru](http://www.mrsmsemporna.edu.my/skoq/contents/Loginguru.asp)                                     |
 | Module 5| [Sistem Penilaian Purata Nilaian Gred (eSppng Ekstra)](https://uppmmrsmlangkawi.com/esppng)             |
 | Module 6| [bayar.maraeps](https://bayar.maraeps.my/login)                                                          |
 | Module 7| [e-Kokurikulum](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp)                                   |
