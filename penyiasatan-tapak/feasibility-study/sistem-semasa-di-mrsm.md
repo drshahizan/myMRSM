@@ -14,14 +14,14 @@
 | 2. Pengurusan pelajar                     | [Sistem data profil pelajar](http://www.uppmlgg.com/esppng/esppngextra/menuxxx\_login.asp)                                                                                                                                                           |
 | 2. Pengurusan pelajar                     | [Integrated e-Hostel Management System](http://e-hostel.net/trans\_hostel)                                                                                                                                                                           |
 | 2. Pengurusan pelajar                     | [Semakan hutang caruman, Muafakat dan Buku Teks](https://form.jotform.com/223253997071461)                                                                                                                                                           |
-| 3. Pengurusan akademik                    | [Borang Laporan Peperiksaan](http://examreportofficialuppmlgg168.uppmlgg.com/index.asp)                                                                                                                                                              |
+| 6. LMS                                    | [Borang Laporan Peperiksaan](http://examreportofficialuppmlgg168.uppmlgg.com/index.asp)                                                                                                                                                              |
 | 3. Pengurusan akademik                    | [Kalkulator](http://kalkulatorpng4mrsm.uppmlgg.com/calculatorPNGatas.asp)                                                                                                                                                                            |
-| 3. Pengurusan akademik                    | [Pelaporan Pentaksiran Bilik Darjah](https://mylink.la/nurmujahadah02)                                                                                                                                                                               |
+| 6. LMS                                    | [Pelaporan Pentaksiran Bilik Darjah](https://mylink.la/nurmujahadah02)                                                                                                                                                                               |
 | 3. Pengurusan akademik                    | [Senarai kelas](http://www.uppmlgg.com/senaraikelas.html)                                                                                                                                                                                            |
 | 3. Pengurusan akademik                    | [Sistem Pengurusan Buku Teks](http://pspbaitulilmitmfs.com/spteks/login.php)                                                                                                                                                                         |
 | 3. Pengurusan akademik                    | [Sistem Penilaian Purata Nilaian Gred (eSppng Ekstra)](https://uppmmrsmlangkawi.com/esppng)                                                                                                                                                          |
-| 3. Pengurusan akademik                    | [Templat Headcount Individu](https://maranet-my.sharepoint.com/:x:/g/personal/joespenzal\_mara\_gov\_my/EfRb-OhMT8hFqlBPfSu8GZ4BpVBxAzzcNXAz\_KWWl\_VyFw?e=FqpV7A)                                                                                   |
-| 3. Pengurusan akademik                    | [Headcount](https://maranet-my.sharepoint.com/:x:/r/personal/suria\_hanapiah\_mara\_gov\_my/\_layouts/15/Doc.aspx?sourcedoc=%7BC496C963-0268-4C7C-A5CE-08D335FFED5E%7D\&file=T5-HEADCOUNT%20BESERI%202023.xlsx\&action=default\&mobileredirect=true) |
+| 6. LMS                                    | [Templat Headcount Individu](https://maranet-my.sharepoint.com/:x:/g/personal/joespenzal\_mara\_gov\_my/EfRb-OhMT8hFqlBPfSu8GZ4BpVBxAzzcNXAz\_KWWl\_VyFw?e=FqpV7A)                                                                                   |
+| 6. LMS                                    | [Headcount](https://maranet-my.sharepoint.com/:x:/r/personal/suria\_hanapiah\_mara\_gov\_my/\_layouts/15/Doc.aspx?sourcedoc=%7BC496C963-0268-4C7C-A5CE-08D335FFED5E%7D\&file=T5-HEADCOUNT%20BESERI%202023.xlsx\&action=default\&mobileredirect=true) |
 | 4. Pengurusan kokurikulum dan ko-akademik | [e-hafazan](http://ehafazanua.com/mrsmkp.html?button=LAMAN+UTAMA%0D%0A)                                                                                                                                                                              |
 | 4. Pengurusan kokurikulum dan ko-akademik | [Sistem Pengurusan Pentaksiran Aktiviti Jasmani, Sukan & Ko Kurikulum](http://syspajskxxxonline.uppmlgg.com/index\_pajsk.asp)                                                                                                                        |
 | 4. Pengurusan kokurikulum dan ko-akademik | [e-Kokurikulum](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp)                                                                                                                                                                               |
@@ -41,20 +41,29 @@
 3. Pengurusan akademik
 4. Pengurusan kokurikulum dan ko-akademik
 5. Pengurusan guru
-6. Pengurusan Learning Management System (LMS)
+6. Pengurusan Learning Management System&#x20;
+7. Pengurusan pelaporan maklumat eksekutif (dashboard)
+8. Aplikasi mudah alih (mobile app)
+9. Lain-lain
 
-Bank soalan
+<details>
 
-Assignment dari guru kpd pelajar
+<summary>Pengurusan Learning Management System (LMS)</summary>
 
-Ujian yg ditadbir secara dalam talian
+a. Bank soalan
 
-Penghantaran assignment dari pelajar kepada guru - penandaan - penskoran
+b. Assignment dari guru kpd pelajar
 
-Digital content
+c. Ujian yg ditadbir secara dalam talian
 
-Jadual waktu
+d. Penghantaran assignment dari pelajar kepada guru - penandaan - penskoran
 
-Data pencapaian pelajar dalam PBD dan pelaporan tahap penguasaan
+e. Digital content
 
-Kehadiran pelajar
+f. Jadual waktu
+
+g. Data pencapaian pelajar dalam PBD dan pelaporan tahap penguasaan
+
+h. Kehadiran pelajar
+
+</details>
