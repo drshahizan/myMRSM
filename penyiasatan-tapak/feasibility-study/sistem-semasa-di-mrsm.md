@@ -18,15 +18,15 @@
 | 3. Pengurusan akademik                    | [Senarai kelas](http://www.uppmlgg.com/senaraikelas.html)                                                                                                                                                                                            |
 | 3. Pengurusan akademik                    | [Sistem Pengurusan Buku Teks](http://pspbaitulilmitmfs.com/spteks/login.php)                                                                                                                                                                         |
 | 3. Pengurusan akademik                    | [Sistem Penilaian Purata Nilaian Gred (eSppng Ekstra)](https://uppmmrsmlangkawi.com/esppng)                                                                                                                                                          |
-| 4. Pengurusan kokurikulum dan ko-akademik | [e-hafazan](http://ehafazanua.com/mrsmkp.html?button=LAMAN+UTAMA%0D%0A) |
-| 4. Pengurusan kokurikulum dan ko-akademik | [Sistem Pengurusan Pentaksiran Aktiviti Jasmani, Sukan & Ko Kurikulum](http://syspajskxxxonline.uppmlgg.com/index\_pajsk.asp) |
+| 4. Pengurusan kokurikulum dan ko-akademik | [e-hafazan](http://ehafazanua.com/mrsmkp.html?button=LAMAN+UTAMA%0D%0A)                                                                                                                                                                              |
+| 4. Pengurusan kokurikulum dan ko-akademik | [Sistem Pengurusan Pentaksiran Aktiviti Jasmani, Sukan & Ko Kurikulum](http://syspajskxxxonline.uppmlgg.com/index\_pajsk.asp)                                                                                                                        |
 | 4. Pengurusan kokurikulum dan ko-akademik | [e-Kokurikulum](http://www.mrsmserting.com/SKOQ/Contents/loginKoq.asp)                                                                                                                                                                               |
 | 5. Pengurusan guru                        | [e-Guru](http://www.mrsmsemporna.edu.my/skoq/contents/Loginguru.asp)                                                                                                                                                                                 |
 | 6. LMS                                    | [Templat Headcount Individu](https://maranet-my.sharepoint.com/:x:/g/personal/joespenzal\_mara\_gov\_my/EfRb-OhMT8hFqlBPfSu8GZ4BpVBxAzzcNXAz\_KWWl\_VyFw?e=FqpV7A)                                                                                   |
 | 6. LMS                                    | [Headcount](https://maranet-my.sharepoint.com/:x:/r/personal/suria\_hanapiah\_mara\_gov\_my/\_layouts/15/Doc.aspx?sourcedoc=%7BC496C963-0268-4C7C-A5CE-08D335FFED5E%7D\&file=T5-HEADCOUNT%20BESERI%202023.xlsx\&action=default\&mobileredirect=true) |
 | 6. LMS                                    | [Pelaporan Pentaksiran Bilik Darjah](https://mylink.la/nurmujahadah02)                                                                                                                                                                               |
 | 6. LMS                                    | [Borang Laporan Peperiksaan](http://examreportofficialuppmlgg168.uppmlgg.com/index.asp)                                                                                                                                                              |
-| 6. LMS            | [Jadual waktu](https://mrsmparit.edupage.org/timetable/) |
+| 6. LMS                                    | [Jadual waktu](https://mrsmparit.edupage.org/timetable/)                                                                                                                                                                                             |
 | 9. Lain-lain                              | [Aduan kerosakan](https://mrsmict.wixsite.com/mrsmkkmaintainance/aduan-kerosakkan)                                                                                                                                                                   |
 | 9. Lain-lain                              | [Library Management System](http://pspmrsmsaskualakangsar.com/)                                                                                                                                                                                      |
 | 9. Lain-lain                              | [Pautan MRSM Beseri](https://mylink.la/mrsmbeseri)                                                                                                                                                                                                   |
@@ -42,7 +42,7 @@
 3. Pengurusan akademik
 4. Pengurusan kokurikulum dan ko-akademik
 5. Pengurusan guru
-6. Pengurusan Learning Management System
+6. _Learning Management System_
 7. Pengurusan pelaporan maklumat eksekutif (dashboard)
 8. Aplikasi mudah alih (mobile app)
 9. Lain-lain

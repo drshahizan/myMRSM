@@ -1,21 +1,21 @@
 # Table of contents
 
 * [💠 Terma Rujukan (TOR)](README.md)
-  * [1⃣ Latar belakang kajian](terma-rujukan-tor/latar-belakang-kajian.md)
-  * [2⃣ Objektif](terma-rujukan-tor/objektif.md)
-  * [3⃣ Skop](terma-rujukan-tor/skop.md)
-  * [4⃣ Output yang dihasilkan](terma-rujukan-tor/output-yang-dihasilkan.md)
-  * [5⃣ Perkara yang disediakan](terma-rujukan-tor/perkara-yang-disediakan.md)
+  * [1⃣ 1⃣ Latar belakang kajian](terma-rujukan-tor/latar-belakang-kajian.md)
+  * [2⃣ 2⃣ Objektif](terma-rujukan-tor/objektif.md)
+  * [3⃣ 3⃣ Skop](terma-rujukan-tor/skop.md)
+  * [4⃣ 4⃣ Output yang dihasilkan](terma-rujukan-tor/output-yang-dihasilkan.md)
+  * [5⃣ 5⃣ Perkara yang disediakan](terma-rujukan-tor/perkara-yang-disediakan.md)
 * [🔦 Aktiviti](aktiviti/README.md)
-  * [1⃣ Pengumpulan data](aktiviti/pengumpulan-data/README.md)
+  * [1⃣ 1⃣ Pengumpulan data](aktiviti/pengumpulan-data/README.md)
     * [Perkara yang perlu dianalisis](aktiviti/pengumpulan-data/perkara-yang-perlu-dianalisis.md)
-  * [2⃣ Penyiasatan Tapak](penyiasatan-tapak.md)
-  * [3⃣ Kajian Ekosistem ICT](aktiviti/kajian-ekosistem-ict.md)
+  * [2⃣ 2⃣ Penyiasatan Tapak](penyiasatan-tapak.md)
+  * [3⃣ 3⃣ Kajian Ekosistem ICT](aktiviti/kajian-ekosistem-ict.md)
 * [📖 Hasil](hasil/README.md)
-  * [1⃣ Laporan awal](hasil/laporan-awal.md)
-  * [2⃣ Laporan kemajuan](hasil/laporan-kemajuan.md)
-  * [3⃣ Laporan akhir](hasil/laporan-akhir.md)
-  * [4⃣ Pembentangan](hasil/pembentangan.md)
+  * [1⃣ 1⃣ Laporan awal](hasil/laporan-awal.md)
+  * [2⃣ 2⃣ Laporan kemajuan](hasil/laporan-kemajuan.md)
+  * [3⃣ 3⃣ Laporan akhir](hasil/laporan-akhir.md)
+  * [4⃣ 4⃣ Pembentangan](hasil/pembentangan.md)
 
 ## Maklumat Asas
 
