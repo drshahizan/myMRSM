@@ -7,7 +7,7 @@
   * [Output yang dihasilkan](terma-rujukan-tor/output-yang-dihasilkan.md)
   * [5⃣ 5⃣ Perkara yang disediakan](terma-rujukan-tor/perkara-yang-disediakan.md)
 * [🔦 Aktiviti](aktiviti/README.md)
-  * [1⃣ Pengumpulan data](aktiviti/pengumpulan-data/README.md)
+  * [Pengumpulan data](aktiviti/pengumpulan-data/README.md)
     * [Perkara yang perlu dianalisis](aktiviti/pengumpulan-data/perkara-yang-perlu-dianalisis.md)
   * [Penyiasatan Tapak](penyiasatan-tapak.md)
   * [Kajian Ekosistem ICT](aktiviti/kajian-ekosistem-ict.md)
