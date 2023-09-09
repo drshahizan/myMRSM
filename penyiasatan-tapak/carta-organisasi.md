@@ -1,5 +1,9 @@
 # Carta Organisasi
 
-{% embed url="http://mersing.mrsm.edu.my/info-pengurusan.html" %}
+### Pengurusan
 
-{% embed url="http://mersing.mrsm.edu.my/info-kakitangan.html" %}
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+### Kakitangan
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
