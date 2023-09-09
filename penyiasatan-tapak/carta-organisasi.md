@@ -1,5 +1,5 @@
 # Carta Organisasi
 
-Pengurusan
+{% embed url="http://mersing.mrsm.edu.my/info-pengurusan.html" %}
 
-<figure><img src="http://mersing.mrsm.edu.my/data/info-mrsm/organisasi/organisasi-pengurusan.jpg" alt=""><figcaption></figcaption></figure>
+{% embed url="http://mersing.mrsm.edu.my/info-kakitangan.html" %}
