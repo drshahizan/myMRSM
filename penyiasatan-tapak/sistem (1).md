@@ -9,6 +9,6 @@
 7. [Portal E-Pembelajaran PDPR](http://mersing.mrsm.edu.my/egemilang-redirect.asp)
 8. [Portal e-SKP](https://lookerstudio.google.com/embed/u/0/reporting/55311a69-ca5e-4ac0-a3c7-69f2ba38adc7/page/EU56B)
 9. [Portal Homeroom](https://lookerstudio.google.com/embed/reporting/1e5d771b-c4bc-48d3-90f6-e5cf4f843189/page/SXvfC)
-10. [Portal Sekreteriat Kepimpinan Pelajar](https://lookerstudio.google.com/embed/reporting/7d378ada-9737-4d4f-a36b-66ec2ba596d7/page/Y9h5B)
+10. [Portal Sekreteriat Kepimpinan Pelajar](https://lookerstudio.google.com/embed/u/0/reporting/55311a69-ca5e-4ac0-a3c7-69f2ba38adc7/page/EU56B)
 11. [E-Tasmiq](https://lookerstudio.google.com/u/0/reporting/92df7e8f-3a5c-4fcb-86da-2195f692f32e/page/zXRJD)
 
