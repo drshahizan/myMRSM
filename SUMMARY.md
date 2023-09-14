@@ -97,7 +97,7 @@
   * [4. Kota Putra](penyiasatan-tapak/mrsm/kota-putra/README.md)
     * [Carta Organisasi](penyiasatan-tapak/mrsm/kota-putra/carta-organisasi.md)
     * [Sistem](penyiasatan-tapak/mrsm/kota-putra/sistem.md)
-  * [Dokumen](penyiasatan-tapak/mrsm/dokumen.md)
+    * [Dokumen](penyiasatan-tapak/mrsm/kota-putra/dokumen.md)
   * [5. Arau](penyiasatan-tapak/mrsm/5.-arau/README.md)
     * [Carta Organisasi](penyiasatan-tapak/mrsm/5.-arau/carta-organisasi.md)
     * [Sistem](penyiasatan-tapak/mrsm/5.-arau/sistem.md)
