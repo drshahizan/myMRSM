@@ -103,7 +103,7 @@
     * [Carta Organisasi](penyiasatan-tapak/mrsm/5.-arau/carta-organisasi.md)
     * [Sistem](penyiasatan-tapak/mrsm/5.-arau/sistem.md)
   * [6. Kulim](penyiasatan-tapak/mrsm/6.-kulim.md)
-  * [7. Lenggong](penyiasatan-tapak/mrsm/7.-lenggong.md)
+  * [7. Taiping](penyiasatan-tapak/mrsm/7.-lenggong.md)
   * [8. Pasir Salak](penyiasatan-tapak/mrsm/8.-pasir-salak.md)
   * [Sistem semasa di MRSM](penyiasatan-tapak/mrsm/sistem-semasa-di-mrsm.md)
 
