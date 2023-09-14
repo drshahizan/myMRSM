@@ -93,6 +93,7 @@
   * [3. Besut](penyiasatan-tapak/mrsm/besut/README.md)
     * [Carta Organisasi](penyiasatan-tapak/mrsm/besut/carta-organisasi.md)
     * [Sistem](penyiasatan-tapak/mrsm/besut/sistem.md)
+    * [Dokumen](penyiasatan-tapak/mrsm/besut/dokumen.md)
   * [4. Kota Putra](penyiasatan-tapak/mrsm/kota-putra/README.md)
     * [Carta Organisasi](penyiasatan-tapak/mrsm/kota-putra/carta-organisasi.md)
     * [Sistem](penyiasatan-tapak/mrsm/kota-putra/sistem.md)
