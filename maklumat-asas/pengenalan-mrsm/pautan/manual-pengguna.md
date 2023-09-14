@@ -21,3 +21,7 @@
 {% embed url="https://anyflip.com/wcwcl/hpbt/basic" %}
 
 {% embed url="https://anyflip.com/ruorr/vbql/" %}
+
+{% embed url="https://anyflip.com/mkaug/aizz/" %}
+
+{% embed url="https://anyflip.com/jodjc/gzqs/basic" %}
