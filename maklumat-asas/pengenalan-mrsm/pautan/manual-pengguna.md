@@ -30,4 +30,4 @@
 
 {% embed url="https://anyflip.com/ivqsu/nunc/basic" %}
 
-{% embed url="https://anyflip.com/vxrsr/lkhe/basic" %}
+{% embed url="https://mrsm.mara.gov.my/mymrsm/Buku%20Panduan%20Permohonan%20MRSM.pdf" %}
