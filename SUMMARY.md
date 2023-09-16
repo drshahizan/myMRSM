@@ -105,8 +105,12 @@
   * [6. Kulim](penyiasatan-tapak/mrsm/kulim/README.md)
     * [Carta Organisasi](penyiasatan-tapak/mrsm/kulim/carta-organisasi.md)
     * [Sistem](penyiasatan-tapak/mrsm/kulim/sistem.md)
-  * [7. Taiping](penyiasatan-tapak/mrsm/taiping.md)
-  * [8. Pasir Salak](penyiasatan-tapak/mrsm/pasir-salak.md)
+  * [7. Taiping](penyiasatan-tapak/mrsm/taiping/README.md)
+    * [Carta Organisasi](penyiasatan-tapak/mrsm/taiping/carta-organisasi.md)
+    * [Sistem](penyiasatan-tapak/mrsm/taiping/sistem.md)
+  * [8. Pasir Salak](penyiasatan-tapak/mrsm/pasir-salak/README.md)
+    * [Carta Organisasi](penyiasatan-tapak/mrsm/pasir-salak/carta-organisasi.md)
+    * [Sistem](penyiasatan-tapak/mrsm/pasir-salak/sistem.md)
   * [Sistem semasa di MRSM](penyiasatan-tapak/mrsm/sistem-semasa-di-mrsm.md)
 
 ## Lain-lain
