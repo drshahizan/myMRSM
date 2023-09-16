@@ -23,18 +23,3 @@
 |[Planner 2022: MRSM Alor Gajah](https://anyflip.com/vzbll/ibro)|
 |[Buku panduan Homeroom](https://anyflip.com/ivqsu/nunc/)|
 |[Buku Panduan Permohonan MRSM ](https://mrsm.mara.gov.my/mymrsm/Buku%20Panduan%20Permohonan%20MRSM.pdf)|
-
-
-{% embed url="https://anyflip.com/wcwcl/hpbt/basic" %}
-
-{% embed url="https://anyflip.com/ruorr/vbql/" %}
-
-{% embed url="https://anyflip.com/mkaug/aizz/" %}
-
-{% embed url="https://anyflip.com/jodjc/gzqs/basic" %}
-
-{% embed url="https://anyflip.com/vzbll/ibro" %}
-
-{% embed url="https://anyflip.com/ivqsu/nunc/basic" %}
-
-{% embed url="https://mrsm.mara.gov.my/mymrsm/Buku%20Panduan%20Permohonan%20MRSM.pdf" %}
