@@ -112,6 +112,12 @@
   * [8. Pasir Salak](penyiasatan-tapak/mrsm/pasir-salak/README.md)
     * [Carta Organisasi](penyiasatan-tapak/mrsm/pasir-salak/carta-organisasi.md)
     * [Sistem](penyiasatan-tapak/mrsm/pasir-salak/sistem.md)
+  * [9. Kuching](penyiasatan-tapak/mrsm/9.-kuching/README.md)
+    * [Carta Organisasi](penyiasatan-tapak/mrsm/9.-kuching/carta-organisasi.md)
+    * [Sistem](penyiasatan-tapak/mrsm/9.-kuching/sistem.md)
+  * [10. Kota Kinabalu](penyiasatan-tapak/mrsm/10.-kota-kinabalu/README.md)
+    * [Carta Organisasi](penyiasatan-tapak/mrsm/10.-kota-kinabalu/carta-organisasi.md)
+    * [Sistem](penyiasatan-tapak/mrsm/10.-kota-kinabalu/sistem.md)
   * [Sistem semasa di MRSM](penyiasatan-tapak/mrsm/sistem-semasa-di-mrsm.md)
 
 ## Lain-lain
