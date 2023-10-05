@@ -87,6 +87,7 @@
 * [MRSM](penyiasatan-tapak/mrsm/README.md)
   * [1. Mersing](penyiasatan-tapak/mrsm/mersing/README.md)
     * [Carta Organisasi](penyiasatan-tapak/mrsm/mersing/carta-organisasi.md)
+    * [Borang Kehadiran](penyiasatan-tapak/mrsm/mersing/borang-kehadiran.md)
     * [Sistem](penyiasatan-tapak/mrsm/mersing/sistem-1.md)
     * [Dokumen](penyiasatan-tapak/mrsm/mersing/dokumen.md)
   * [2. Kuantan](penyiasatan-tapak/mrsm/kuantan/README.md)
