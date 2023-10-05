@@ -12,6 +12,7 @@
   * [Penyiasatan Tapak](penyiasatan-tapak.md)
   * [Kajian Ekosistem ICT](aktiviti/kajian-ekosistem-ict.md)
 * [📖 Hasil](hasil/README.md)
+  * [Borang Kehadiran](hasil/borang-kehadiran.md)
   * [Laporan awal](hasil/laporan-awal.md)
   * [Laporan kemajuan](hasil/laporan-kemajuan.md)
   * [Laporan akhir](hasil/laporan-akhir.md)
