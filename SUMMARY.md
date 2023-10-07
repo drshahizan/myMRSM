@@ -143,8 +143,8 @@
   * [Dokumen](penyiasatan-tapak/ibu-pejabat-mara/dokumen.md)
   * [Gambar](penyiasatan-tapak/ibu-pejabat-mara/gambar.md)
 * [Templat dokumen](penyiasatan-tapak/templat-dokumen/README.md)
-  * [Laporan Tapak](penyiasatan-tapak/templat-dokumen/laporan-tapak.md)
   * [Strategi perlaksanaan lawatan tapak](penyiasatan-tapak/templat-dokumen/strategi-perlaksanaan-lawatan-tapak.md)
+  * [Laporan Tapak](penyiasatan-tapak/templat-dokumen/laporan-tapak.md)
 
 ## Lain-lain
 
