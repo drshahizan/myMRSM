@@ -143,6 +143,7 @@
   * [Dokumen](penyiasatan-tapak/ibu-pejabat-mara/dokumen.md)
   * [Gambar](penyiasatan-tapak/ibu-pejabat-mara/gambar.md)
 * [Templat dokumen](penyiasatan-tapak/templat-dokumen.md)
+* [Laporan](penyiasatan-tapak/laporan.md)
 
 ## Lain-lain
 
