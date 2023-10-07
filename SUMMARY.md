@@ -12,7 +12,6 @@
   * [Penyiasatan Tapak](penyiasatan-tapak.md)
   * [Kajian Ekosistem ICT](aktiviti/kajian-ekosistem-ict.md)
 * [📖 Hasil](hasil/README.md)
-  * [Borang Kehadiran](hasil/borang-kehadiran.md)
   * [Laporan awal](hasil/laporan-awal.md)
   * [Laporan kemajuan](hasil/laporan-kemajuan.md)
   * [Laporan akhir](hasil/laporan-akhir.md)
@@ -143,6 +142,7 @@
   * [Borang Kehadiran](penyiasatan-tapak/ibu-pejabat-mara/borang-kehadiran.md)
   * [Dokumen](penyiasatan-tapak/ibu-pejabat-mara/dokumen.md)
   * [Gambar](penyiasatan-tapak/ibu-pejabat-mara/gambar.md)
+* [Templat dokumen](penyiasatan-tapak/templat-dokumen.md)
 
 ## Lain-lain
 
